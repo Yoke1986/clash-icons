@@ -32,3 +32,15 @@
 Anthropic-QX.png、TradingView-QX.png、BattleNet-QX.png、Binance-QX.png 分别由本仓库对应原始品牌 PNG 转换。
 处理仅包括缩小至 144×144、转为 8-bit RGBA、重新编码并移除元数据；未重新绘制图案。
 原始图片和来源地址均保留，衍生文件与原始文件的 SHA-256、转换说明记录在 sources.json。相关权利仍归各品牌权利人。
+
+## 直连、断开与圆角币安
+
+Direct.png 和 Reject.png 原样取自 Koolson/Qure 同一固定提交的 IconSet/Color，遵循上述 Qure 出处说明。
+Binance-Rounded-QX.png 沿用本仓库的币安图标，在 SVG 画布中对外部黑色背景加圆角裁切；原文件保留。
+
+## Anthropic 官方原始标志与暖棕配色版本
+
+Anthropic-Symbol-Slate.svg 原样取自 [Anthropic 官方媒体包](https://anthropic.com/press-kit)，官方入口为 [Newsroom](https://www.anthropic.com/news)。
+Anthropic-Tan.svg、Anthropic-Tan-HD.png、Anthropic-Tan-QX.png 保留官方标志路径，另加 #D4A27F 暖棕色圆角底。
+暖棕底为参考用户截图的自定义配色排版，未声称找到该截图的官方原始颜色版。高清 PNG 和 QX PNG 均直接从 SVG 渲染；无截图裁切放大。
+所有品牌标志权利归相应权利人；本仓库未重新声明这些商标的许可或品牌背书。逐文件来源、转换与 SHA-256 记录在 sources.json。

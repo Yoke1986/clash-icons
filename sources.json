@@ -39,6 +39,76 @@
       "sha256": "844a1e0b2c570750d526fc9cd98b12256b0715cc0a5b7c3c0da993f944306612"
     },
     {
+      "file": "icons/Anthropic-Symbol-Slate.svg",
+      "source_kind": "Anthropic official press kit",
+      "source_url": "https://anthropic.com/press-kit",
+      "bytes": 350,
+      "sha256": "d55918884053460f24c958fca3fba8d10b48fdd86e73ba3cd1237713bc0a03bb",
+      "source_page": "https://www.anthropic.com/news",
+      "archive_entry": "Anthropic media resources/Anthropic logos/Anthropic logos/2 Anthropic symbol/SVG/Anthropic symbol - Slate.svg",
+      "archive_sha256": "c68ac92df86c825f95177e24016fcc9a8863a3fd4ca344fe6f0700b2c1e07151",
+      "transformation": "Original official SVG copied unchanged",
+      "format": "SVG",
+      "dimensions": [
+        92.0,
+        64.0
+      ]
+    },
+    {
+      "file": "icons/Anthropic-Tan-HD.png",
+      "source_kind": "Custom tan-background composition of official Anthropic SVG",
+      "source_url": "https://anthropic.com/press-kit",
+      "bytes": 25118,
+      "sha256": "bf7b2d4c4e0221b3839d429078a213d0144f5135b5cb0e8e155a5e199a658495",
+      "source_page": "https://www.anthropic.com/news",
+      "source_file": "icons/Anthropic-Symbol-Slate.svg",
+      "derived_from_sha256": "d55918884053460f24c958fca3fba8d10b48fdd86e73ba3cd1237713bc0a03bb",
+      "transformation": "Official symbol paths unchanged; added rounded tan canvas; rendered directly from vector",
+      "background_color": "#D4A27F",
+      "official_color_variant": false,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "icons/Anthropic-Tan-QX.png",
+      "source_kind": "Custom tan-background composition of official Anthropic SVG",
+      "source_url": "https://anthropic.com/press-kit",
+      "bytes": 2579,
+      "sha256": "f569c3665912bd2cc40474f5a690d4871143c395130d6e675bb2f18538cc686f",
+      "source_page": "https://www.anthropic.com/news",
+      "source_file": "icons/Anthropic-Symbol-Slate.svg",
+      "derived_from_sha256": "d55918884053460f24c958fca3fba8d10b48fdd86e73ba3cd1237713bc0a03bb",
+      "transformation": "Official symbol paths unchanged; added rounded tan canvas; rendered directly from vector",
+      "background_color": "#D4A27F",
+      "official_color_variant": false,
+      "dimensions": [
+        144,
+        144
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "icons/Anthropic-Tan.svg",
+      "source_kind": "Custom tan-background composition of official Anthropic SVG",
+      "source_url": "https://anthropic.com/press-kit",
+      "bytes": 474,
+      "sha256": "bf02875fea2153b3deeb9fbb016c2875a6330cfc998155f381286aa5d5deaac4",
+      "source_page": "https://www.anthropic.com/news",
+      "source_file": "icons/Anthropic-Symbol-Slate.svg",
+      "derived_from_sha256": "d55918884053460f24c958fca3fba8d10b48fdd86e73ba3cd1237713bc0a03bb",
+      "transformation": "Official symbol paths unchanged; added rounded tan canvas; rendered directly from vector",
+      "background_color": "#D4A27F",
+      "official_color_variant": false,
+      "format": "SVG",
+      "dimensions": [
+        1024.0,
+        1024.0
+      ]
+    },
+    {
       "file": "icons/Anthropic.png",
       "source_kind": "brand website",
       "source_url": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/67d31dd7aa394792257596c5_webclip.png",
@@ -125,6 +195,22 @@
       "source_page": "https://apps.apple.com/hk/app/id1436799971"
     },
     {
+      "file": "icons/Binance-Rounded-QX.png",
+      "source_kind": "Rounded-corner SVG composition of Binance asset",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/6c/dc/b56cdc5f-d290-af23-5e72-5647781a15c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
+      "bytes": 6535,
+      "sha256": "6c4b0dbea8d24b4a51fad2d0fdb0be07d6c9beee5f20c6b048369bb502bd338c",
+      "source_file": "icons/Binance-QX.png",
+      "derived_from_sha256": "87397ebde7bbb3c4eac99ad71ad90e42a2105cddebd328d5cf097b06495a6711",
+      "transformation": "SVG clip-path rounds outer background corners; original logo retained; rendered at 144x144 RGBA",
+      "corner_radius_px": 31,
+      "dimensions": [
+        144,
+        144
+      ],
+      "mode": "RGBA"
+    },
+    {
       "file": "icons/Binance.png",
       "source_kind": "Binance App Store artwork",
       "source_page": "https://apps.apple.com/hk/app/id1436799971",
@@ -135,6 +221,19 @@
         512
       ],
       "sha256": "d9d1b40de82f05ea10ec9829fea1588dd3a07f01edec29769d63ba9195f9c40b"
+    },
+    {
+      "file": "icons/Direct.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Direct.png",
+      "bytes": 11224,
+      "sha256": "32ee61a70150851c6b9f034da2a4f0d27230ba1776c5bca6b5e1dba056d62f68",
+      "transformation": "Original PNG bytes copied unchanged",
+      "dimensions": [
+        144,
+        144
+      ],
+      "mode": "RGBA"
     },
     {
       "file": "icons/Disney.png",
@@ -290,6 +389,19 @@
         144
       ],
       "sha256": "56f5e40b72a4279c12e3577f996a2fa003c9adafc86a66ed9a38c1ec60aa6bc4"
+    },
+    {
+      "file": "icons/Reject.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Reject.png",
+      "bytes": 10805,
+      "sha256": "6ec855e15d6a4eca57291ae29846c2ebc760aa49b7faf136c60c4d8645dd9d75",
+      "transformation": "Original PNG bytes copied unchanged",
+      "dimensions": [
+        144,
+        144
+      ],
+      "mode": "RGBA"
     },
     {
       "file": "icons/Singapore.png",

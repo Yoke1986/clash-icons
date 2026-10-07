@@ -1,6 +1,6 @@
 # Clash / Quantumult X icons
 
-为 Clash Verge 和 Quantumult X 分组提供 PNG 图标的独立资源仓库，共 36 张图片。
+为 Clash Verge 和 Quantumult X 分组提供 PNG 图标的独立资源仓库，共 43 个图像文件（41 张 PNG、2 份 SVG）。
 
 ## 目录
 
@@ -52,3 +52,23 @@
 | TradingView | <img src="icons/TradingView-QX.png" width="32" alt="TradingView"> | [TradingView-QX.png](icons/TradingView-QX.png) |
 | 暴雪战网 | <img src="icons/BattleNet-QX.png" width="32" alt="暴雪战网"> | [BattleNet-QX.png](icons/BattleNet-QX.png) |
 | 加密货币 | <img src="icons/Binance-QX.png" width="32" alt="加密货币"> | [Binance-QX.png](icons/Binance-QX.png) |
+
+## QX 服务组选项配套图标
+
+新增绿色 Direct.png、红色 Reject.png，以及透明圆角背景的 Binance-Rounded-QX.png。原有图标保留。
+
+| 用途 | 预览 | 文件 |
+| --- | --- | --- |
+| 直连 | <img src="icons/Direct.png" width="32" alt="直连"> | [Direct.png](icons/Direct.png) |
+| 断开 | <img src="icons/Reject.png" width="32" alt="断开"> | [Reject.png](icons/Reject.png) |
+| 加密货币 / 圆角币安 | <img src="icons/Binance-Rounded-QX.png" width="32" alt="加密货币 / 圆角币安"> | [Binance-Rounded-QX.png](icons/Binance-Rounded-QX.png) |
+| AI / 暖棕 Anthropic | <img src="icons/Anthropic-Tan-QX.png" width="32" alt="AI / 暖棕 Anthropic"> | [Anthropic-Tan-QX.png](icons/Anthropic-Tan-QX.png) |
+
+### Anthropic 高清资源
+
+- [官方原始 SVG 标志](icons/Anthropic-Symbol-Slate.svg)：原样来自 [Anthropic 官方媒体包](https://www.anthropic.com/news)。
+- [暖棕底 SVG](icons/Anthropic-Tan.svg)：以官方标志路径配上自定义暖棕色底，属于本仓库的排版配色版本。
+- [1024×1024 暖棕底 PNG](icons/Anthropic-Tan-HD.png)：直接由 SVG 渲染。
+- [144×144 QX PNG](icons/Anthropic-Tan-QX.png)：单独从矢量源渲染，避免放大截图。
+
+暖棕配色用于接近用户参考图；未将其称为官方原始颜色版。品牌权利和出处见 NOTICE.md 与 sources.json。
