@@ -1,0 +1,303 @@
+{
+  "qure_repository": "https://github.com/Koolson/Qure",
+  "qure_commit": "b16b260625f873266f6a6a9b88710132774997b8",
+  "icons": [
+    {
+      "file": "icons/AI.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/AI.png",
+      "bytes": 9818,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "dea91e9e528c7f32e7bb7c4d390be6a0b8b65a89ff9d6d5e764e2c318201f98f"
+    },
+    {
+      "file": "icons/Advertising.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Advertising.png",
+      "bytes": 14638,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "ed4566a4a01e56c4b2fa987786be66836234e4e5cc33e3ab8fed87298ec45a25"
+    },
+    {
+      "file": "icons/Anthropic.png",
+      "source_kind": "brand website",
+      "source_url": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/67d31dd7aa394792257596c5_webclip.png",
+      "bytes": 3175,
+      "dimensions": [
+        256,
+        256
+      ],
+      "sha256": "c91922918edeef31af5e969413c0eecf583707d14588de3fecc1d649b4303bf7"
+    },
+    {
+      "file": "icons/Apple_TV.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Apple_TV.png",
+      "bytes": 8382,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "4b949572c3d8a25fce945c2ebeec213f4212f6001ffa54e6bffd6ea8b8edebd1"
+    },
+    {
+      "file": "icons/Auto.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Auto.png",
+      "bytes": 7081,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "ca2161622dcc61e6e72f1906c0970ab604d19d7da513cc7fc243561b9543f171"
+    },
+    {
+      "file": "icons/Bahamut.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Bahamut.png",
+      "bytes": 14268,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "4a80298ad9b0f01e62c935d54ae9b9a9b0ccab9ec077eaf50c519652e3d87e94"
+    },
+    {
+      "file": "icons/Disney.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Disney.png",
+      "bytes": 10231,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "064d15173c70c990e9b6f53b6f21dd9c0e16380b9a9ad360ad3ad95eb2b29722"
+    },
+    {
+      "file": "icons/EU.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/EU.png",
+      "bytes": 11822,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "44ea29b4dfca9b1e8ee31d3a2ade0ec456cac39efa10fea1cf2bd3407fc9da1c"
+    },
+    {
+      "file": "icons/Final.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Final.png",
+      "bytes": 11353,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "2f5e1d63526c34b4a26194bf07c554d35b98b25bbfaa988611d6ecb77e3f511f"
+    },
+    {
+      "file": "icons/GitHub.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/GitHub.png",
+      "bytes": 14031,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "9fb913b9abee0f0152a9acc6772e89762a071f5a9bd706420f5768e96cb24481"
+    },
+    {
+      "file": "icons/Google-G.png",
+      "source_kind": "brand website",
+      "source_url": "https://www.gstatic.com/images/branding/product/2x/googleg_48dp.png",
+      "bytes": 2392,
+      "dimensions": [
+        96,
+        96
+      ],
+      "sha256": "3730780f82acd51907c761bf0da9429d18266a9c6b33a03a515c4dd06819a0d9"
+    },
+    {
+      "file": "icons/Google.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Google.png",
+      "bytes": 6646,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "c815cd27d60bff0af3e65704e837dcacb9f6d46be42a2ac1a5b70c3e2e41c15c"
+    },
+    {
+      "file": "icons/HBO_Max.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/HBO_Max.png",
+      "bytes": 14421,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "45b3967c852ef61c5624ec688dec25b7e89e048917089a35946d6bcc3e232c47"
+    },
+    {
+      "file": "icons/Hong_Kong.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Hong_Kong.png",
+      "bytes": 11854,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "eacee82c61b21e7a926b4f393403bf8f783b3109352b7dbd20b6ffd9c0d742c2"
+    },
+    {
+      "file": "icons/Japan.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Japan.png",
+      "bytes": 8754,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "59e351aab014850cd4b2a26fd17ce6a993649fffb44d8956c6635838432e0d82"
+    },
+    {
+      "file": "icons/Korea.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Korea.png",
+      "bytes": 10961,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "2612736989c0932b9d9057111f00b704aa1f146efcaa2ca853bade05d3f967ab"
+    },
+    {
+      "file": "icons/Netflix.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Netflix.png",
+      "bytes": 3875,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "a190c314b964c6e2efb6a00028ee4c2b28159f16d2280189d8a97a3cdc9e62a0"
+    },
+    {
+      "file": "icons/PayPal.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/PayPal.png",
+      "bytes": 4243,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "3523f042f51164e2936c85d152f9ff98ff4f9aa992ab8969ce111573c0202e43"
+    },
+    {
+      "file": "icons/Proxy.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Proxy.png",
+      "bytes": 12999,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "56f5e40b72a4279c12e3577f996a2fa003c9adafc86a66ed9a38c1ec60aa6bc4"
+    },
+    {
+      "file": "icons/Singapore.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Singapore.png",
+      "bytes": 9416,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "192249f40299813067a960ad964093a6dbfa965e2509d0b4ddf920eb4a1441cd"
+    },
+    {
+      "file": "icons/Spotify.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Spotify.png",
+      "bytes": 17767,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "af656084c22d2409c989b20c89a4526af114aeb55b0e3b97484a40feff304ffb"
+    },
+    {
+      "file": "icons/Taiwan.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Taiwan.png",
+      "bytes": 10667,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "c40a38fdba600cffe8471ada64b294744211f233a650140650c67bd26b4b0e37"
+    },
+    {
+      "file": "icons/Telegram.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Telegram.png",
+      "bytes": 13559,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "1af4c3abe4f3be8f1fa1677302aa40e7fb509b89707fbd79f07d209c36ba970e"
+    },
+    {
+      "file": "icons/TikTok.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/TikTok.png",
+      "bytes": 8365,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "a60f7e5520fc58e894b7dbc596972787c1d1403ee1251cee1cad700c0847c587"
+    },
+    {
+      "file": "icons/United_States.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/United_States.png",
+      "bytes": 12522,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "63d7c028ea38626029cc968ff93ee63eee6672fab1750ccbda1ad1eabebc5f5a"
+    },
+    {
+      "file": "icons/X.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/X.png",
+      "bytes": 10795,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "59041c2f3fb44541e7e5ca499c9a1d0593db67d416af6eeaf6982342e4bb3351"
+    },
+    {
+      "file": "icons/YouTube.png",
+      "source_kind": "Koolson/Qure",
+      "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/YouTube.png",
+      "bytes": 9092,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "1ff428e8f81e5b959cd7a1181f9f7279315e5d04de3b052886fc60834c28529d"
+    }
+  ]
+}

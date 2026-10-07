@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/README.md
+!/NOTICE.md
+!/sources.json
+!/icons/
+!/icons/*.png
