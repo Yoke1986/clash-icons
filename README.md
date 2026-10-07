@@ -1,6 +1,6 @@
-# Clash icons
+# Clash / Quantumult X icons
 
-为 Clash Verge 分组提供 PNG 图标的独立资源仓库，共 27 张图片。
+为 Clash Verge 和 Quantumult X 分组提供 PNG 图标的独立资源仓库，共 32 张图片。
 
 ## 目录
 
@@ -18,6 +18,11 @@
 | X | <img src="icons/X.png" width="32" alt="X"> | [X.png](icons/X.png) |
 | Telegram | <img src="icons/Telegram.png" width="32" alt="Telegram"> | [Telegram.png](icons/Telegram.png) |
 | 通用代理 | <img src="icons/Proxy.png" width="32" alt="Proxy"> | [Proxy.png](icons/Proxy.png) |
+| TradingView | <img src="icons/TradingView.png" width="32" alt="TradingView"> | [TradingView.png](icons/TradingView.png) |
+| Battle.net / 暴雪战网 | <img src="icons/BattleNet.png" width="32" alt="Battle.net / 暴雪战网"> | [BattleNet.png](icons/BattleNet.png) |
+| Steam | <img src="icons/Steam.png" width="32" alt="Steam"> | [Steam.png](icons/Steam.png) |
+| Binance / 加密货币 | <img src="icons/Binance.png" width="32" alt="Binance / 加密货币"> | [Binance.png](icons/Binance.png) |
+| 所有节点 / 地球 | <img src="icons/Global.png" width="32" alt="所有节点 / 地球"> | [Global.png](icons/Global.png) |
 
 其他服务图标包括 Apple TV、Bahamut、Disney、GitHub、HBO Max、Netflix、PayPal、Spotify 和 TikTok。
 同时保留 Qure 原版 AI、Google 图标作为兼容资源。
@@ -26,7 +31,7 @@
 
 国家/地区：`United_States.png`、`Japan.png`、`Singapore.png`、`Taiwan.png`、`Hong_Kong.png`、`Korea.png`、`EU.png`。
 
-通用图标：`Proxy.png`、`Auto.png`、`Final.png`、`Advertising.png`。
+通用图标包括新增的地球 Global.png，以及：`Proxy.png`、`Auto.png`、`Final.png`、`Advertising.png`。
 
 ## 图片地址
 

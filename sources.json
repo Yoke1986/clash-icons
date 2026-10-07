@@ -69,6 +69,30 @@
       "sha256": "4a80298ad9b0f01e62c935d54ae9b9a9b0ccab9ec077eaf50c519652e3d87e94"
     },
     {
+      "file": "icons/BattleNet.png",
+      "source_kind": "brand website",
+      "source_page": "https://download.battle.net/en-us/desktop",
+      "source_url": "https://d2zsxgsqjmrnrw.cloudfront.net/images/favicon-196x196.c3a4cd54fdaeec566e96c37dba35cbca5eccba52.png",
+      "bytes": 11820,
+      "dimensions": [
+        196,
+        196
+      ],
+      "sha256": "b30407b288846d9662d17cf47d1a23ff4760b0415d3f06af8ac3509518ca1a0c"
+    },
+    {
+      "file": "icons/Binance.png",
+      "source_kind": "Binance App Store artwork",
+      "source_page": "https://apps.apple.com/hk/app/id1436799971",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/6c/dc/b56cdc5f-d290-af23-5e72-5647781a15c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
+      "bytes": 40677,
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "d9d1b40de82f05ea10ec9829fea1588dd3a07f01edec29769d63ba9195f9c40b"
+    },
+    {
       "file": "icons/Disney.png",
       "source_kind": "Koolson/Qure",
       "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Disney.png",
@@ -111,6 +135,18 @@
         144
       ],
       "sha256": "9fb913b9abee0f0152a9acc6772e89762a071f5a9bd706420f5768e96cb24481"
+    },
+    {
+      "file": "icons/Global.png",
+      "source_kind": "Koolson/Qure",
+      "source_page": "https://github.com/Koolson/Qure",
+      "source_url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Global.png",
+      "bytes": 13045,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "0338f9c7e185e24bdc41bc55b7ee8c5cbb7dafb041d7a6addcef2884b85e73d3"
     },
     {
       "file": "icons/Google-G.png",
@@ -234,6 +270,18 @@
       "sha256": "af656084c22d2409c989b20c89a4526af114aeb55b0e3b97484a40feff304ffb"
     },
     {
+      "file": "icons/Steam.png",
+      "source_kind": "Koolson/Qure",
+      "source_page": "https://github.com/Koolson/Qure",
+      "source_url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Steam.png",
+      "bytes": 15992,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "dcc4adb21cc434c02df2dd15512c10a8838e46fe033c520e7eb51d0769876e17"
+    },
+    {
       "file": "icons/Taiwan.png",
       "source_kind": "Koolson/Qure",
       "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Taiwan.png",
@@ -265,6 +313,18 @@
         144
       ],
       "sha256": "a60f7e5520fc58e894b7dbc596972787c1d1403ee1251cee1cad700c0847c587"
+    },
+    {
+      "file": "icons/TradingView.png",
+      "source_kind": "brand website",
+      "source_page": "https://www.tradingview.com/",
+      "source_url": "https://static.tradingview.com/static/images/favicon/apple-touch-icon-180x180.png",
+      "bytes": 2916,
+      "dimensions": [
+        180,
+        180
+      ],
+      "sha256": "01084dca8eb5942b8dc3be721280a063ccfa2e557ba72af5c41bd160b00ec53f"
     },
     {
       "file": "icons/United_States.png",
