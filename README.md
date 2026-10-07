@@ -1,6 +1,6 @@
 # Clash / Quantumult X icons
 
-为 Clash Verge 和 Quantumult X 分组提供 PNG 图标的独立资源仓库，共 32 张图片。
+为 Clash Verge 和 Quantumult X 分组提供 PNG 图标的独立资源仓库，共 36 张图片。
 
 ## 目录
 
@@ -40,3 +40,15 @@
 `https://raw.githubusercontent.com/Yoke1986/clash-icons/COMMIT/icons/YouTube.png`
 
 图标来源与权利说明见 [NOTICE.md](NOTICE.md)，逐文件出处见 [sources.json](sources.json)。
+
+## QX 144px 图标版本
+
+下面四张保留原有品牌图案，统一为 144×144、8-bit RGBA、无附加元数据的标准 PNG。原始图片继续保留。
+这些版本用于排查 QX 显示兼容问题；144px 不是本仓库声称的官方尺寸限制，iOS 显示仍需实际确认。
+
+| QX 分组 | 预览 | 文件 |
+| --- | --- | --- |
+| AI | <img src="icons/Anthropic-QX.png" width="32" alt="AI"> | [Anthropic-QX.png](icons/Anthropic-QX.png) |
+| TradingView | <img src="icons/TradingView-QX.png" width="32" alt="TradingView"> | [TradingView-QX.png](icons/TradingView-QX.png) |
+| 暴雪战网 | <img src="icons/BattleNet-QX.png" width="32" alt="暴雪战网"> | [BattleNet-QX.png](icons/BattleNet-QX.png) |
+| 加密货币 | <img src="icons/Binance-QX.png" width="32" alt="加密货币"> | [Binance-QX.png](icons/Binance-QX.png) |

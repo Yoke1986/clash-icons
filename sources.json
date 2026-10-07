@@ -25,6 +25,20 @@
       "sha256": "ed4566a4a01e56c4b2fa987786be66836234e4e5cc33e3ab8fed87298ec45a25"
     },
     {
+      "file": "icons/Anthropic-QX.png",
+      "source_kind": "QX PNG variant of original brand asset",
+      "source_url": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/67d31dd7aa394792257596c5_webclip.png",
+      "source_file": "icons/Anthropic.png",
+      "derived_from_sha256": "c91922918edeef31af5e969413c0eecf583707d14588de3fecc1d649b4303bf7",
+      "transformation": "144x144; Lanczos resize; 8-bit RGBA; non-interlaced PNG; metadata removed",
+      "bytes": 5928,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "844a1e0b2c570750d526fc9cd98b12256b0715cc0a5b7c3c0da993f944306612"
+    },
+    {
       "file": "icons/Anthropic.png",
       "source_kind": "brand website",
       "source_url": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/67d31dd7aa394792257596c5_webclip.png",
@@ -69,6 +83,21 @@
       "sha256": "4a80298ad9b0f01e62c935d54ae9b9a9b0ccab9ec077eaf50c519652e3d87e94"
     },
     {
+      "file": "icons/BattleNet-QX.png",
+      "source_kind": "QX PNG variant of original brand asset",
+      "source_url": "https://d2zsxgsqjmrnrw.cloudfront.net/images/favicon-196x196.c3a4cd54fdaeec566e96c37dba35cbca5eccba52.png",
+      "source_file": "icons/BattleNet.png",
+      "derived_from_sha256": "b30407b288846d9662d17cf47d1a23ff4760b0415d3f06af8ac3509518ca1a0c",
+      "transformation": "144x144; Lanczos resize; 8-bit RGBA; non-interlaced PNG; metadata removed",
+      "bytes": 11871,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "eebee0f41bc61f36fc23941b76f9c2793eeff905fbafa599fbf2f84f495e7ca5",
+      "source_page": "https://download.battle.net/en-us/desktop"
+    },
+    {
       "file": "icons/BattleNet.png",
       "source_kind": "brand website",
       "source_page": "https://download.battle.net/en-us/desktop",
@@ -79,6 +108,21 @@
         196
       ],
       "sha256": "b30407b288846d9662d17cf47d1a23ff4760b0415d3f06af8ac3509518ca1a0c"
+    },
+    {
+      "file": "icons/Binance-QX.png",
+      "source_kind": "QX PNG variant of original brand asset",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/6c/dc/b56cdc5f-d290-af23-5e72-5647781a15c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
+      "source_file": "icons/Binance.png",
+      "derived_from_sha256": "d9d1b40de82f05ea10ec9829fea1588dd3a07f01edec29769d63ba9195f9c40b",
+      "transformation": "144x144; Lanczos resize; 8-bit RGBA; non-interlaced PNG; metadata removed",
+      "bytes": 7262,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "87397ebde7bbb3c4eac99ad71ad90e42a2105cddebd328d5cf097b06495a6711",
+      "source_page": "https://apps.apple.com/hk/app/id1436799971"
     },
     {
       "file": "icons/Binance.png",
@@ -313,6 +357,21 @@
         144
       ],
       "sha256": "a60f7e5520fc58e894b7dbc596972787c1d1403ee1251cee1cad700c0847c587"
+    },
+    {
+      "file": "icons/TradingView-QX.png",
+      "source_kind": "QX PNG variant of original brand asset",
+      "source_url": "https://static.tradingview.com/static/images/favicon/apple-touch-icon-180x180.png",
+      "source_file": "icons/TradingView.png",
+      "derived_from_sha256": "01084dca8eb5942b8dc3be721280a063ccfa2e557ba72af5c41bd160b00ec53f",
+      "transformation": "144x144; Lanczos resize; 8-bit RGBA; non-interlaced PNG; metadata removed",
+      "bytes": 5296,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "c0d8aba30b7f44fe74b7c0df5e4dd19bfaab52023034023d286f1fa6997fa838",
+      "source_page": "https://www.tradingview.com/"
     },
     {
       "file": "icons/TradingView.png",

@@ -26,3 +26,9 @@
 
 图片原样保存。Steam.png、Global.png 也原样取自上述 Qure 固定提交。
 逐文件原始地址、大小、尺寸及 SHA-256 见 sources.json。相关商标和图像权利归各自权利人。
+
+## QX 图标技术转换版本
+
+Anthropic-QX.png、TradingView-QX.png、BattleNet-QX.png、Binance-QX.png 分别由本仓库对应原始品牌 PNG 转换。
+处理仅包括缩小至 144×144、转为 8-bit RGBA、重新编码并移除元数据；未重新绘制图案。
+原始图片和来源地址均保留，衍生文件与原始文件的 SHA-256、转换说明记录在 sources.json。相关权利仍归各品牌权利人。
