@@ -180,19 +180,25 @@
       "sha256": "b30407b288846d9662d17cf47d1a23ff4760b0415d3f06af8ac3509518ca1a0c"
     },
     {
-      "file": "icons/Binance-QX.png",
-      "source_kind": "QX PNG variant of original brand asset",
-      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/6c/dc/b56cdc5f-d290-af23-5e72-5647781a15c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
-      "source_file": "icons/Binance.png",
-      "derived_from_sha256": "d9d1b40de82f05ea10ec9829fea1588dd3a07f01edec29769d63ba9195f9c40b",
-      "transformation": "144x144; Lanczos resize; 8-bit RGBA; non-interlaced PNG; metadata removed",
-      "bytes": 7262,
-      "dimensions": [
-        144,
-        144
+      "file": "icons/Binance-Rounded-HD.png",
+      "source_kind": "Rounded canvas of Binance App Store artwork",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/6c/dc/b56cdc5f-d290-af23-5e72-5647781a15c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1024x1024bb.png",
+      "source_page": "https://apps.apple.com/hk/app/id1436799971",
+      "source_artwork_dimensions": [
+        1024,
+        1024
       ],
-      "sha256": "87397ebde7bbb3c4eac99ad71ad90e42a2105cddebd328d5cf097b06495a6711",
-      "source_page": "https://apps.apple.com/hk/app/id1436799971"
+      "source_artwork_SHA256": "830df19e03701b543239bb543656f0f220dedcdbbeb22a84bea5a9dc21d23fb9",
+      "transformation": "Native 1024px artwork clipped by SVG rounded rect; no QX bitmap enlargement",
+      "corner_radius_fraction": 0.2152777777777778,
+      "corner_radius_px": 220.44444444444446,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "bytes": 45826,
+      "sha256": "42c37086efcf0daa2c7cd73f8cd10983d30ec84c7555b6baf34aff347f5a496e"
     },
     {
       "file": "icons/Binance-Rounded-QX.png",
@@ -200,7 +206,6 @@
       "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/6c/dc/b56cdc5f-d290-af23-5e72-5647781a15c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
       "bytes": 6535,
       "sha256": "6c4b0dbea8d24b4a51fad2d0fdb0be07d6c9beee5f20c6b048369bb502bd338c",
-      "source_file": "icons/Binance-QX.png",
       "derived_from_sha256": "87397ebde7bbb3c4eac99ad71ad90e42a2105cddebd328d5cf097b06495a6711",
       "transformation": "SVG clip-path rounds outer background corners; original logo retained; rendered at 144x144 RGBA",
       "corner_radius_px": 31,
@@ -208,19 +213,10 @@
         144,
         144
       ],
-      "mode": "RGBA"
-    },
-    {
-      "file": "icons/Binance.png",
-      "source_kind": "Binance App Store artwork",
-      "source_page": "https://apps.apple.com/hk/app/id1436799971",
-      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/6c/dc/b56cdc5f-d290-af23-5e72-5647781a15c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
-      "bytes": 40677,
-      "dimensions": [
-        512,
-        512
-      ],
-      "sha256": "d9d1b40de82f05ea10ec9829fea1588dd3a07f01edec29769d63ba9195f9c40b"
+      "mode": "RGBA",
+      "historical_source_file": "icons/Binance-QX.png",
+      "historical_source_commit": "5070b8b689c81591b384d934d0054843e5e7f03d",
+      "historical_source_raw_url": "https://raw.githubusercontent.com/Yoke1986/clash-icons/5070b8b689c81591b384d934d0054843e5e7f03d/icons/Binance-QX.png"
     },
     {
       "file": "icons/Direct.png",
