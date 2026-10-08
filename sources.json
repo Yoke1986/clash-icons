@@ -354,36 +354,55 @@
       "sha256": "2612736989c0932b9d9057111f00b704aa1f146efcaa2ca853bade05d3f967ab"
     },
     {
-      "file": "icons/Microsoft-HD.png",
-      "source_kind": "PNG rendered from official Microsoft SVG",
+      "file": "icons/Microsoft-Glass.svg",
+      "source_kind": "Custom four-color glass-style SVG for Microsoft service",
       "source_url": "https://learn.microsoft.com/en-us/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg",
-      "bytes": 10024,
+      "source_page": "https://learn.microsoft.com/en-us/entra/identity-platform/howto-add-branding-in-apps",
+      "reference_file": "icons/Microsoft-Symbol.svg",
+      "reference_sha256": "929f48f88c8ca7f3f5d294be47ec4caf51acc28ac25340c19a903125d7ecd84a",
+      "transformation": "Custom rounded four-color tiles, gradients, highlights and shadows; not an official Microsoft logo variant",
+      "official_brand_variant": false,
+      "format": "SVG",
       "dimensions": [
         1024,
         1024
       ],
-      "sha256": "a941a0fb92a70598c4914c999233f678089edc524210c27788ea44bd93903e95",
+      "bytes": 3557,
+      "sha256": "90d1915621dd0723c89bb404141e939f8fe1379b18b222b4d099a59e05257347"
+    },
+    {
+      "file": "icons/Microsoft-HD.png",
+      "source_kind": "PNG rendered from custom Microsoft glass-style SVG",
+      "source_url": "https://learn.microsoft.com/en-us/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg",
+      "bytes": 311164,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "6d4e761020ae2d0d632afbeef80646750e3510602ef1f0aa8434938505728b6a",
       "mode": "RGBA",
       "source_page": "https://learn.microsoft.com/en-us/entra/identity-platform/howto-add-branding-in-apps",
-      "source_file": "icons/Microsoft-Symbol.svg",
-      "derived_from_sha256": "929f48f88c8ca7f3f5d294be47ec4caf51acc28ac25340c19a903125d7ecd84a",
-      "transformation": "Official SVG rendered directly at target size; original viewBox, proportions and colors retained; 8-bit RGBA PNG"
+      "source_file": "icons/Microsoft-Glass.svg",
+      "derived_from_sha256": "90d1915621dd0723c89bb404141e939f8fe1379b18b222b4d099a59e05257347",
+      "official_brand_variant": false,
+      "transformation": "Custom glass-style service icon rendered directly from vector at target size; transparent rounded canvas; 8-bit RGBA PNG"
     },
     {
       "file": "icons/Microsoft-QX.png",
-      "source_kind": "PNG rendered from official Microsoft SVG",
+      "source_kind": "PNG rendered from custom Microsoft glass-style SVG",
       "source_url": "https://learn.microsoft.com/en-us/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg",
-      "bytes": 629,
+      "bytes": 24627,
       "dimensions": [
         144,
         144
       ],
-      "sha256": "4b323bce1688c328875ebe872ff8f561ad981bff9f5f681b8c85b1dff031962b",
+      "sha256": "ff5574cee99b443399617b6fafcd4e35dddcc7714dbf767e1e5674126ba5b9a2",
       "mode": "RGBA",
       "source_page": "https://learn.microsoft.com/en-us/entra/identity-platform/howto-add-branding-in-apps",
-      "source_file": "icons/Microsoft-Symbol.svg",
-      "derived_from_sha256": "929f48f88c8ca7f3f5d294be47ec4caf51acc28ac25340c19a903125d7ecd84a",
-      "transformation": "Official SVG rendered directly at target size; original viewBox, proportions and colors retained; 8-bit RGBA PNG"
+      "source_file": "icons/Microsoft-Glass.svg",
+      "derived_from_sha256": "90d1915621dd0723c89bb404141e939f8fe1379b18b222b4d099a59e05257347",
+      "official_brand_variant": false,
+      "transformation": "Custom glass-style service icon rendered directly from vector at target size; transparent rounded canvas; 8-bit RGBA PNG"
     },
     {
       "file": "icons/Microsoft-Symbol.svg",
@@ -485,6 +504,42 @@
       "source_file": "icons/Speedtest-HD.png",
       "derived_from_sha256": "de81c8c1eebe097ffb227e7598917f16bb28dc943af39ef227a46b9038a95846",
       "transformation": "144x144; Lanczos resize; 8-bit RGBA; non-interlaced PNG; metadata removed"
+    },
+    {
+      "file": "icons/Speedtest-Rounded-HD.png",
+      "source_kind": "Rounded canvas of Speedtest official App Store artwork",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/69/68/076968d6-6ef2-0030-007d-5cafdfd5d358/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/1024x1024bb.png",
+      "bytes": 358034,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "6a33c4e17dc1f60ab598f2614c1f40c25e6179ff9764cc01d8f1a8306c17d8f3",
+      "mode": "RGBA",
+      "source_page": "https://apps.apple.com/us/app/speedtest-by-ookla/id300704847",
+      "source_file": "icons/Speedtest-HD.png",
+      "derived_from_sha256": "de81c8c1eebe097ffb227e7598917f16bb28dc943af39ef227a46b9038a95846",
+      "corner_radius_fraction": 0.2152777777777778,
+      "corner_radius_px": 220.44444444444446,
+      "transformation": "Native 1024px original embedded in SVG and clipped by rounded rectangle; rendered directly at target size; no QX bitmap enlargement"
+    },
+    {
+      "file": "icons/Speedtest-Rounded-QX.png",
+      "source_kind": "Rounded canvas of Speedtest official App Store artwork",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/69/68/076968d6-6ef2-0030-007d-5cafdfd5d358/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/1024x1024bb.png",
+      "bytes": 7684,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "930c3eeb1ae4644def3add775dcdb814fb7270d7c0de8b61d68dd63e6c4042ff",
+      "mode": "RGBA",
+      "source_page": "https://apps.apple.com/us/app/speedtest-by-ookla/id300704847",
+      "source_file": "icons/Speedtest-HD.png",
+      "derived_from_sha256": "de81c8c1eebe097ffb227e7598917f16bb28dc943af39ef227a46b9038a95846",
+      "corner_radius_fraction": 0.2152777777777778,
+      "corner_radius_px": 31.0,
+      "transformation": "Native 1024px original embedded in SVG and clipped by rounded rectangle; rendered directly at target size; no QX bitmap enlargement"
     },
     {
       "file": "icons/Spotify.png",

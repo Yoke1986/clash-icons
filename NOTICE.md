@@ -19,8 +19,9 @@
 | 文件或系列 | 处理 |
 | --- | --- |
 | Anthropic-QX.png、TradingView-QX.png、BattleNet-QX.png、Speedtest-QX.png | 对应原始品牌 PNG 缩小至 144 × 144、8-bit RGBA，重新编码并移除元数据。 |
-| Microsoft-HD.png、Microsoft-QX.png | 从原始官方 SVG 分别渲染 1024 × 1024 和 144 × 144；图案比例和配色保留，PNG 透明背景。 |
+| Microsoft-Glass.svg、Microsoft-HD.png、Microsoft-QX.png | 自定义四彩玻璃风格：圆角色块、渐变、高光与柔和阴影；两套 PNG 从此 SVG 独立渲染。此款不是官方 Microsoft 标志版本，官方原始 SVG 继续保留。 |
 | Anthropic-Tan.svg、Anthropic-Tan-HD.png、Anthropic-Tan-QX.png | 官方标志路径配 #D4A27F 暖棕圆角底，两套 PNG 分别从 SVG 渲染；暖棕底为自定义排版配色。 |
+| Speedtest-Rounded-HD.png、Speedtest-Rounded-QX.png | 对官方原始 1024px App Store 图像添加透明圆角，弧度与币安版一致；图案保留，两套均由含原图的 SVG 独立渲染，原版 PNG 继续保留。 |
 | Binance-Rounded-HD.png | 从原始 1024px App Store 资源为外部黑色背景添加透明圆角，未放大 QX 小图。 |
 | Binance-Rounded-QX.png | 保留已发布的 144px 圆角版本。旧尖角文件已从当前版本移除，历史来源提交和 SHA-256 留在 sources.json。 |
 

@@ -8,8 +8,8 @@
 | --- | --- | --- | --- | --- |
 | <img src="icons/Anthropic-Tan-HD.png" width="36" alt="AI / Anthropic · 暖棕圆角"> | AI / Anthropic · 暖棕圆角 | [Anthropic-Tan-HD.png](icons/Anthropic-Tan-HD.png) | 1024 × 1024 | 1024px，矢量源直接渲染 |
 | <img src="icons/Binance-Rounded-HD.png" width="36" alt="加密货币 / 币安 · 圆角"> | 加密货币 / 币安 · 圆角 | [Binance-Rounded-HD.png](icons/Binance-Rounded-HD.png) | 1024 × 1024 | 1024px 原始资源加圆角 |
-| <img src="icons/Microsoft-HD.png" width="36" alt="微软 Microsoft · 备用"> | 微软 Microsoft · 备用 | [Microsoft-HD.png](icons/Microsoft-HD.png) | 1024 × 1024 | 1024px，官方四彩标志矢量渲染 |
-| <img src="icons/Speedtest-HD.png" width="36" alt="Speedtest · 备用"> | Speedtest · 备用 | [Speedtest-HD.png](icons/Speedtest-HD.png) | 1024 × 1024 | 1024px，官方应用图标 |
+| <img src="icons/Microsoft-HD.png" width="36" alt="微软 Microsoft · 四彩玻璃"> | 微软 Microsoft · 四彩玻璃 | [Microsoft-HD.png](icons/Microsoft-HD.png) | 1024 × 1024 | 1024px，自定义玻璃渐变 SVG 直接渲染 |
+| <img src="icons/Speedtest-Rounded-HD.png" width="36" alt="Speedtest · 圆角"> | Speedtest · 圆角 | [Speedtest-Rounded-HD.png](icons/Speedtest-Rounded-HD.png) | 1024 × 1024 | 1024px 原始图案，透明圆角与币安一致 |
 | <img src="icons/TradingView.png" width="36" alt="TradingView · 备用"> | TradingView · 备用 | [TradingView.png](icons/TradingView.png) | 180 × 180 | 保留官方 180px 原图 |
 | <img src="icons/BattleNet.png" width="36" alt="暴雪战网"> | 暴雪战网 | [BattleNet.png](icons/BattleNet.png) | 196 × 196 | 保留官方 196px 原图 |
 
@@ -19,8 +19,8 @@
 | --- | --- | --- | --- |
 | <img src="icons/Anthropic-Tan-QX.png" width="36" alt="AI / Anthropic · 暖棕圆角"> | AI / Anthropic · 暖棕圆角 | [Anthropic-Tan-QX.png](icons/Anthropic-Tan-QX.png) | 144 × 144 |
 | <img src="icons/Binance-Rounded-QX.png" width="36" alt="加密货币 / 币安 · 圆角"> | 加密货币 / 币安 · 圆角 | [Binance-Rounded-QX.png](icons/Binance-Rounded-QX.png) | 144 × 144 |
-| <img src="icons/Microsoft-QX.png" width="36" alt="微软 Microsoft · 备用"> | 微软 Microsoft · 备用 | [Microsoft-QX.png](icons/Microsoft-QX.png) | 144 × 144 |
-| <img src="icons/Speedtest-QX.png" width="36" alt="Speedtest · 备用"> | Speedtest · 备用 | [Speedtest-QX.png](icons/Speedtest-QX.png) | 144 × 144 |
+| <img src="icons/Microsoft-QX.png" width="36" alt="微软 Microsoft · 四彩玻璃"> | 微软 Microsoft · 四彩玻璃 | [Microsoft-QX.png](icons/Microsoft-QX.png) | 144 × 144 |
+| <img src="icons/Speedtest-Rounded-QX.png" width="36" alt="Speedtest · 圆角"> | Speedtest · 圆角 | [Speedtest-Rounded-QX.png](icons/Speedtest-Rounded-QX.png) | 144 × 144 |
 | <img src="icons/TradingView-QX.png" width="36" alt="TradingView · 备用"> | TradingView · 备用 | [TradingView-QX.png](icons/TradingView-QX.png) | 144 × 144 |
 | <img src="icons/BattleNet-QX.png" width="36" alt="暴雪战网"> | 暴雪战网 | [BattleNet-QX.png](icons/BattleNet-QX.png) | 144 × 144 |
 
@@ -77,14 +77,19 @@ QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导�
 | <img src="icons/Google.png" width="36" alt="Google · Qure 原版"> | Google · Qure 原版 | [Google.png](icons/Google.png) | 144 × 144 |
 | <img src="icons/Anthropic.png" width="36" alt="Anthropic · 原版白底"> | Anthropic · 原版白底 | [Anthropic.png](icons/Anthropic.png) | 256 × 256 |
 | <img src="icons/Anthropic-QX.png" width="36" alt="Anthropic · 白底 QX 版"> | Anthropic · 白底 QX 版 | [Anthropic-QX.png](icons/Anthropic-QX.png) | 144 × 144 |
+| <img src="icons/Speedtest-HD.png" width="36" alt="Speedtest · 原版"> | Speedtest · 原版 | [Speedtest-HD.png](icons/Speedtest-HD.png) | 1024 × 1024 |
+| <img src="icons/Speedtest-QX.png" width="36" alt="Speedtest · 原版 QX"> | Speedtest · 原版 QX | [Speedtest-QX.png](icons/Speedtest-QX.png) | 144 × 144 |
 
 ## 矢量源文件
 
 | 用途 | 文件 | 说明 |
 | --- | --- | --- |
+| 微软 · 四彩玻璃 | [Microsoft-Glass.svg](icons/Microsoft-Glass.svg) | 自定义圆角、渐变、高光与阴影，供两套 PNG 独立渲染 |
 | 微软 · 官方四彩标志 | [Microsoft-Symbol.svg](icons/Microsoft-Symbol.svg) | Microsoft Learn 官方 SVG，原样保存 |
 | Anthropic · 官方标志 | [Anthropic-Symbol-Slate.svg](icons/Anthropic-Symbol-Slate.svg) | Anthropic 官方媒体包，原样保存 |
 | Anthropic · 暖棕圆角底 | [Anthropic-Tan.svg](icons/Anthropic-Tan.svg) | 官方标志配自定义暖棕底，用于独立渲染两套 PNG |
+
+微软四彩玻璃版为本仓库自定义服务图标；官方原始四彩标志保存在上表 SVG 中。
 
 ## 图片链接与文件说明
 
@@ -93,6 +98,6 @@ QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导�
 | 跟随仓库最新版本 | `https://raw.githubusercontent.com/Yoke1986/clash-icons/main/icons/文件名.png` |
 | 固定图片版本 | `https://raw.githubusercontent.com/Yoke1986/clash-icons/提交SHA/icons/文件名.png` |
 | 规格选择 | 已有 QX 专用版时使用 `-QX.png`；Clash 使用表中的原图或 `-HD.png`。Steam 等通用图标两端共用。 |
-| 文件数量 | 47 个图像文件：44 张 PNG、3 份 SVG。 |
+| 文件数量 | 50 个图像文件：46 张 PNG、4 份 SVG。 |
 | 逐文件来源与校验 | [sources.json](sources.json)：来源地址、实际尺寸、文件大小、SHA-256。 |
 | 出处与品牌权利 | [NOTICE.md](NOTICE.md) |
