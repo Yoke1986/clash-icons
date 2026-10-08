@@ -1,83 +1,98 @@
-# Clash / Quantumult X icons
-
-为 Clash Verge 和 Quantumult X 分组提供 PNG 图标的独立资源仓库，共 42 个图像文件（40 张 PNG、2 份 SVG）。
-
-## 目录
-
-- `icons/`：服务、国家/地区和通用代理图标。
-- `sources.json`：每张图片的原始来源、尺寸、大小和 SHA-256。
-- `NOTICE.md`：Qure 转载出处与品牌权利说明。
-
-## 常用服务图标
-
-| 用途 | 预览 | 文件 |
-| --- | --- | --- |
-| AI / Anthropic 高清 | <img src="icons/Anthropic-Tan-HD.png" width="32" alt="Anthropic"> | [Anthropic-Tan-HD.png](icons/Anthropic-Tan-HD.png) |
-| Google | <img src="icons/Google-G.png" width="32" alt="Google"> | [Google-G.png](icons/Google-G.png) |
-| YouTube | <img src="icons/YouTube.png" width="32" alt="YouTube"> | [YouTube.png](icons/YouTube.png) |
-| X | <img src="icons/X.png" width="32" alt="X"> | [X.png](icons/X.png) |
-| Telegram | <img src="icons/Telegram.png" width="32" alt="Telegram"> | [Telegram.png](icons/Telegram.png) |
-| 通用代理 | <img src="icons/Proxy.png" width="32" alt="Proxy"> | [Proxy.png](icons/Proxy.png) |
-| TradingView | <img src="icons/TradingView.png" width="32" alt="TradingView"> | [TradingView.png](icons/TradingView.png) |
-| Battle.net / 暴雪战网 | <img src="icons/BattleNet.png" width="32" alt="Battle.net / 暴雪战网"> | [BattleNet.png](icons/BattleNet.png) |
-| Steam | <img src="icons/Steam.png" width="32" alt="Steam"> | [Steam.png](icons/Steam.png) |
-| Binance / 加密货币 | <img src="icons/Binance-Rounded-HD.png" width="32" alt="Binance / 加密货币"> | [Binance-Rounded-HD.png](icons/Binance-Rounded-HD.png) |
-| 所有节点 / 地球 | <img src="icons/Global.png" width="32" alt="所有节点 / 地球"> | [Global.png](icons/Global.png) |
-
-其他服务图标包括 Apple TV、Bahamut、Disney、GitHub、HBO Max、Netflix、PayPal、Spotify 和 TikTok。
-同时保留 Qure 原版 AI、Google 图标作为兼容资源。
-
-## 国家/地区与通用图标
-
-国家/地区：`United_States.png`、`Japan.png`、`Singapore.png`、`Taiwan.png`、`Hong_Kong.png`、`Korea.png`、`EU.png`。
-
-通用图标包括新增的地球 Global.png，以及：`Proxy.png`、`Auto.png`、`Final.png`、`Advertising.png`。
-
-## 图片地址
-
-使用已发布提交的 Raw URL，固定图片版本：
-
-`https://raw.githubusercontent.com/Yoke1986/clash-icons/COMMIT/icons/YouTube.png`
-
-图标来源与权利说明见 [NOTICE.md](NOTICE.md)，逐文件出处见 [sources.json](sources.json)。
-
-## QX 144px 图标版本
-
-下面四张保留品牌图案，统一为 144×144、8-bit RGBA 的标准 PNG；币安使用圆角款。
-这些版本用于排查 QX 显示兼容问题；144px 不是本仓库声称的官方尺寸限制，iOS 显示仍需实际确认。
-
-| QX 分组 | 预览 | 文件 |
-| --- | --- | --- |
-| AI | <img src="icons/Anthropic-Tan-QX.png" width="32" alt="AI"> | [Anthropic-Tan-QX.png](icons/Anthropic-Tan-QX.png) |
-| TradingView | <img src="icons/TradingView-QX.png" width="32" alt="TradingView"> | [TradingView-QX.png](icons/TradingView-QX.png) |
-| 暴雪战网 | <img src="icons/BattleNet-QX.png" width="32" alt="暴雪战网"> | [BattleNet-QX.png](icons/BattleNet-QX.png) |
-| 加密货币 | <img src="icons/Binance-Rounded-QX.png" width="32" alt="加密货币"> | [Binance-Rounded-QX.png](icons/Binance-Rounded-QX.png) |
-
-## QX 服务组选项配套图标
-
-绿色 Direct.png、红色 Reject.png，以及圆角币安两套独立 PNG：QX 144×144，Clash 高清 1024×1024。旧尖角币安文件已移除。
-
-| 用途 | 预览 | 文件 |
-| --- | --- | --- |
-| 直连 | <img src="icons/Direct.png" width="32" alt="直连"> | [Direct.png](icons/Direct.png) |
-| 断开 | <img src="icons/Reject.png" width="32" alt="断开"> | [Reject.png](icons/Reject.png) |
-| 加密货币 / 圆角币安 | <img src="icons/Binance-Rounded-QX.png" width="32" alt="加密货币 / 圆角币安"> | [Binance-Rounded-QX.png](icons/Binance-Rounded-QX.png) |
-| AI / 暖棕 Anthropic | <img src="icons/Anthropic-Tan-QX.png" width="32" alt="AI / 暖棕 Anthropic"> | [Anthropic-Tan-QX.png](icons/Anthropic-Tan-QX.png) |
-
-### Anthropic 高清资源
-
-- [官方原始 SVG 标志](icons/Anthropic-Symbol-Slate.svg)：原样来自 [Anthropic 官方媒体包](https://www.anthropic.com/news)。
-- [暖棕底 SVG](icons/Anthropic-Tan.svg)：以官方标志路径配上自定义暖棕色底，属于本仓库的排版配色版本。
-- [1024×1024 暖棕底 PNG](icons/Anthropic-Tan-HD.png)：直接由 SVG 渲染。
-- [144×144 QX PNG](icons/Anthropic-Tan-QX.png)：单独从矢量源渲染，避免放大截图。
-
-暖棕配色用于接近用户参考图；未将其称为官方原始颜色版。品牌权利和出处见 NOTICE.md 与 sources.json。
+# Clash / Quantumult X 图标库
 
-## AI / 币安两套独立规格
+全部图标由本仓库托管；按用途选 PNG，备用图标可直接取用。
 
-| 用途 | QX 144×144 | Clash 1024×1024 |
+## Clash 图标
+
+| 预览 | 用途 | 文件 | 尺寸（px） | 说明 |
+| --- | --- | --- | --- | --- |
+| <img src="icons/Anthropic-Tan-HD.png" width="36" alt="AI / Anthropic · 暖棕圆角"> | AI / Anthropic · 暖棕圆角 | [Anthropic-Tan-HD.png](icons/Anthropic-Tan-HD.png) | 1024 × 1024 | 1024px，矢量源直接渲染 |
+| <img src="icons/Binance-Rounded-HD.png" width="36" alt="加密货币 / 币安 · 圆角"> | 加密货币 / 币安 · 圆角 | [Binance-Rounded-HD.png](icons/Binance-Rounded-HD.png) | 1024 × 1024 | 1024px 原始资源加圆角 |
+| <img src="icons/Microsoft-HD.png" width="36" alt="微软 Microsoft · 备用"> | 微软 Microsoft · 备用 | [Microsoft-HD.png](icons/Microsoft-HD.png) | 1024 × 1024 | 1024px，官方四彩标志矢量渲染 |
+| <img src="icons/Speedtest-HD.png" width="36" alt="Speedtest · 备用"> | Speedtest · 备用 | [Speedtest-HD.png](icons/Speedtest-HD.png) | 1024 × 1024 | 1024px，官方应用图标 |
+| <img src="icons/TradingView.png" width="36" alt="TradingView · 备用"> | TradingView · 备用 | [TradingView.png](icons/TradingView.png) | 180 × 180 | 保留官方 180px 原图 |
+| <img src="icons/BattleNet.png" width="36" alt="暴雪战网"> | 暴雪战网 | [BattleNet.png](icons/BattleNet.png) | 196 × 196 | 保留官方 196px 原图 |
+
+## Quantumult X 图标
+
+| 预览 | 用途 | 文件 | 尺寸（px） |
+| --- | --- | --- | --- |
+| <img src="icons/Anthropic-Tan-QX.png" width="36" alt="AI / Anthropic · 暖棕圆角"> | AI / Anthropic · 暖棕圆角 | [Anthropic-Tan-QX.png](icons/Anthropic-Tan-QX.png) | 144 × 144 |
+| <img src="icons/Binance-Rounded-QX.png" width="36" alt="加密货币 / 币安 · 圆角"> | 加密货币 / 币安 · 圆角 | [Binance-Rounded-QX.png](icons/Binance-Rounded-QX.png) | 144 × 144 |
+| <img src="icons/Microsoft-QX.png" width="36" alt="微软 Microsoft · 备用"> | 微软 Microsoft · 备用 | [Microsoft-QX.png](icons/Microsoft-QX.png) | 144 × 144 |
+| <img src="icons/Speedtest-QX.png" width="36" alt="Speedtest · 备用"> | Speedtest · 备用 | [Speedtest-QX.png](icons/Speedtest-QX.png) | 144 × 144 |
+| <img src="icons/TradingView-QX.png" width="36" alt="TradingView · 备用"> | TradingView · 备用 | [TradingView-QX.png](icons/TradingView-QX.png) | 144 × 144 |
+| <img src="icons/BattleNet-QX.png" width="36" alt="暴雪战网"> | 暴雪战网 | [BattleNet-QX.png](icons/BattleNet-QX.png) | 144 × 144 |
+
+QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导入为准。
+
+## 通用服务图标（Clash / QX 共用）
+
+| 预览 | 服务 | 文件 | 尺寸（px） |
+| --- | --- | --- | --- |
+| <img src="icons/Steam.png" width="36" alt="Steam · 备用"> | Steam · 备用 | [Steam.png](icons/Steam.png) | 144 × 144 |
+| <img src="icons/Google-G.png" width="36" alt="Google · 彩色 G"> | Google · 彩色 G | [Google-G.png](icons/Google-G.png) | 96 × 96 |
+| <img src="icons/YouTube.png" width="36" alt="YouTube"> | YouTube | [YouTube.png](icons/YouTube.png) | 144 × 144 |
+| <img src="icons/X.png" width="36" alt="X / Twitter"> | X / Twitter | [X.png](icons/X.png) | 144 × 144 |
+| <img src="icons/Telegram.png" width="36" alt="Telegram"> | Telegram | [Telegram.png](icons/Telegram.png) | 144 × 144 |
+| <img src="icons/GitHub.png" width="36" alt="GitHub"> | GitHub | [GitHub.png](icons/GitHub.png) | 144 × 144 |
+| <img src="icons/Apple_TV.png" width="36" alt="Apple TV"> | Apple TV | [Apple_TV.png](icons/Apple_TV.png) | 144 × 144 |
+| <img src="icons/Disney.png" width="36" alt="Disney+"> | Disney+ | [Disney.png](icons/Disney.png) | 144 × 144 |
+| <img src="icons/HBO_Max.png" width="36" alt="HBO Max"> | HBO Max | [HBO_Max.png](icons/HBO_Max.png) | 144 × 144 |
+| <img src="icons/Netflix.png" width="36" alt="Netflix"> | Netflix | [Netflix.png](icons/Netflix.png) | 144 × 144 |
+| <img src="icons/Spotify.png" width="36" alt="Spotify"> | Spotify | [Spotify.png](icons/Spotify.png) | 144 × 144 |
+| <img src="icons/TikTok.png" width="36" alt="TikTok"> | TikTok | [TikTok.png](icons/TikTok.png) | 144 × 144 |
+| <img src="icons/PayPal.png" width="36" alt="PayPal"> | PayPal | [PayPal.png](icons/PayPal.png) | 144 × 144 |
+| <img src="icons/Bahamut.png" width="36" alt="巴哈姆特"> | 巴哈姆特 | [Bahamut.png](icons/Bahamut.png) | 144 × 144 |
+
+## 国家与地区图标
+
+| 预览 | 地区 | 文件 | 尺寸（px） |
+| --- | --- | --- | --- |
+| <img src="icons/United_States.png" width="36" alt="美国 US"> | 美国 US | [United_States.png](icons/United_States.png) | 144 × 144 |
+| <img src="icons/Japan.png" width="36" alt="日本 JP"> | 日本 JP | [Japan.png](icons/Japan.png) | 144 × 144 |
+| <img src="icons/Singapore.png" width="36" alt="新加坡 SG"> | 新加坡 SG | [Singapore.png](icons/Singapore.png) | 144 × 144 |
+| <img src="icons/Taiwan.png" width="36" alt="台湾 TW"> | 台湾 TW | [Taiwan.png](icons/Taiwan.png) | 144 × 144 |
+| <img src="icons/Hong_Kong.png" width="36" alt="香港 HK"> | 香港 HK | [Hong_Kong.png](icons/Hong_Kong.png) | 144 × 144 |
+| <img src="icons/Korea.png" width="36" alt="韩国 KR"> | 韩国 KR | [Korea.png](icons/Korea.png) | 144 × 144 |
+| <img src="icons/EU.png" width="36" alt="欧洲 EU"> | 欧洲 EU | [EU.png](icons/EU.png) | 144 × 144 |
+
+## 通用代理图标
+
+| 预览 | 用途 | 文件 | 尺寸（px） |
+| --- | --- | --- | --- |
+| <img src="icons/Global.png" width="36" alt="所有节点 / 地球"> | 所有节点 / 地球 | [Global.png](icons/Global.png) | 144 × 144 |
+| <img src="icons/Proxy.png" width="36" alt="代理 / Proxy"> | 代理 / Proxy | [Proxy.png](icons/Proxy.png) | 144 × 144 |
+| <img src="icons/Auto.png" width="36" alt="自动选择 / Auto"> | 自动选择 / Auto | [Auto.png](icons/Auto.png) | 144 × 144 |
+| <img src="icons/Direct.png" width="36" alt="直连 / DIRECT"> | 直连 / DIRECT | [Direct.png](icons/Direct.png) | 144 × 144 |
+| <img src="icons/Reject.png" width="36" alt="断开 / REJECT"> | 断开 / REJECT | [Reject.png](icons/Reject.png) | 144 × 144 |
+| <img src="icons/Final.png" width="36" alt="漏网之鱼 / Final"> | 漏网之鱼 / Final | [Final.png](icons/Final.png) | 144 × 144 |
+| <img src="icons/Advertising.png" width="36" alt="广告拦截"> | 广告拦截 | [Advertising.png](icons/Advertising.png) | 144 × 144 |
+
+## 其他备用版本
+
+| 预览 | 用途 | 文件 | 尺寸（px） |
+| --- | --- | --- | --- |
+| <img src="icons/AI.png" width="36" alt="AI · Qure 原版"> | AI · Qure 原版 | [AI.png](icons/AI.png) | 144 × 144 |
+| <img src="icons/Google.png" width="36" alt="Google · Qure 原版"> | Google · Qure 原版 | [Google.png](icons/Google.png) | 144 × 144 |
+| <img src="icons/Anthropic.png" width="36" alt="Anthropic · 原版白底"> | Anthropic · 原版白底 | [Anthropic.png](icons/Anthropic.png) | 256 × 256 |
+| <img src="icons/Anthropic-QX.png" width="36" alt="Anthropic · 白底 QX 版"> | Anthropic · 白底 QX 版 | [Anthropic-QX.png](icons/Anthropic-QX.png) | 144 × 144 |
+
+## 矢量源文件
+
+| 用途 | 文件 | 说明 |
 | --- | --- | --- |
-| 暖色 AI | [Anthropic-Tan-QX.png](icons/Anthropic-Tan-QX.png) | [Anthropic-Tan-HD.png](icons/Anthropic-Tan-HD.png) |
-| 圆角币安 | [Binance-Rounded-QX.png](icons/Binance-Rounded-QX.png) | [Binance-Rounded-HD.png](icons/Binance-Rounded-HD.png) |
+| 微软 · 官方四彩标志 | [Microsoft-Symbol.svg](icons/Microsoft-Symbol.svg) | Microsoft Learn 官方 SVG，原样保存 |
+| Anthropic · 官方标志 | [Anthropic-Symbol-Slate.svg](icons/Anthropic-Symbol-Slate.svg) | Anthropic 官方媒体包，原样保存 |
+| Anthropic · 暖棕圆角底 | [Anthropic-Tan.svg](icons/Anthropic-Tan.svg) | 官方标志配自定义暖棕底，用于独立渲染两套 PNG |
 
-币安高清版取自同一 App Store 图像的 1024px 资源，仅对外部背景加圆角；没有放大 144px QX 图标。
+## 图片链接与文件说明
+
+| 项目 | 说明 |
+| --- | --- |
+| 跟随仓库最新版本 | `https://raw.githubusercontent.com/Yoke1986/clash-icons/main/icons/文件名.png` |
+| 固定图片版本 | `https://raw.githubusercontent.com/Yoke1986/clash-icons/提交SHA/icons/文件名.png` |
+| 规格选择 | 已有 QX 专用版时使用 `-QX.png`；Clash 使用表中的原图或 `-HD.png`。Steam 等通用图标两端共用。 |
+| 文件数量 | 47 个图像文件：44 张 PNG、3 份 SVG。 |
+| 逐文件来源与校验 | [sources.json](sources.json)：来源地址、实际尺寸、文件大小、SHA-256。 |
+| 出处与品牌权利 | [NOTICE.md](NOTICE.md) |

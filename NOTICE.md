@@ -1,46 +1,33 @@
-# 图标来源与权利说明
-
-## Qure
-
-27 个 PNG 原样取自 [Koolson/Qure](https://github.com/Koolson/Qure)，
-固定来源提交为 `b16b260625f873266f6a6a9b88710132774997b8`，目录为 `IconSet/Color`。
-
-上游 [README](https://github.com/Koolson/Qure/blob/b16b260625f873266f6a6a9b88710132774997b8/README.md)
-要求转载注明出处，并将这些资源用于非商业分享、学习交流；品牌图标的权利归相应权利人所有。
-本仓库保留原始图像及逐文件出处，不重新声明图标的授权许可。
-
-## Anthropic 与 Google
-
-- `Anthropic.png`：来自 [Anthropic 官网](https://www.anthropic.com/) 的公开 Apple Touch Icon。
-- `Google-G.png`：来自 Google 官方 `gstatic.com` 的品牌图标。
-
-原始图片地址记录在 [sources.json](sources.json)。
-上述商标及图像权利归各自权利人；本仓库不声称获得其品牌背书。
-
-
-## TradingView、Battle.net 与 Binance
-
-- TradingView.png：来自 [TradingView 官网](https://www.tradingview.com/) 声明的公开 Apple Touch Icon。
-- BattleNet.png：来自 [Battle.net 官方客户端下载页](https://download.battle.net/en-us/desktop) 声明的公开 PNG 站点图标。
-- Binance-Rounded-HD.png：原始 1024px 图像来自 [Binance 官方 iOS 应用的 App Store 页面](https://apps.apple.com/hk/app/id1436799971)，由 Apple 图片 CDN 提供的公开 PNG；应用发行方为 Binance Switzerland AG。
-
-TradingView.png 与 BattleNet.png 原样保存。币安高清版只添加透明圆角外框。Steam.png、Global.png 原样取自上述 Qure 固定提交。
-逐文件原始地址、大小、尺寸及 SHA-256 见 sources.json。相关商标和图像权利归各自权利人。
-
-## QX 图标技术转换版本
-
-Anthropic-QX.png、TradingView-QX.png、BattleNet-QX.png 分别由本仓库对应原始品牌 PNG 转换；币安只保留圆角两套。
-处理仅包括缩小至 144×144、转为 8-bit RGBA、重新编码并移除元数据；未重新绘制图案。
-原始图片和来源地址均保留，衍生文件与原始文件的 SHA-256、转换说明记录在 sources.json。相关权利仍归各品牌权利人。
-
-## 直连、断开与圆角币安
-
-Direct.png 和 Reject.png 原样取自 Koolson/Qure 同一固定提交的 IconSet/Color，遵循上述 Qure 出处说明。
-Binance-Rounded-QX.png 保留已发布的 144px 圆角版本。Binance-Rounded-HD.png 从同一 App Store 图像的 1024px 资源，在 SVG 画布中对外部黑色背景按相同比例加圆角裁切。旧尖角文件已移除；历史来源提交和 SHA-256 保存在 sources.json。
-
-## Anthropic 官方原始标志与暖棕配色版本
-
-Anthropic-Symbol-Slate.svg 原样取自 [Anthropic 官方媒体包](https://anthropic.com/press-kit)，官方入口为 [Newsroom](https://www.anthropic.com/news)。
-Anthropic-Tan.svg、Anthropic-Tan-HD.png、Anthropic-Tan-QX.png 保留官方标志路径，另加 #D4A27F 暖棕色圆角底。
-暖棕底为参考用户截图的自定义配色排版，未声称找到该截图的官方原始颜色版。高清 PNG 和 QX PNG 均直接从 SVG 渲染；无截图裁切放大。
-所有品牌标志权利归相应权利人；本仓库未重新声明这些商标的许可或品牌背书。逐文件来源、转换与 SHA-256 记录在 sources.json。
+# 图标来源与权利说明
+
+## 原始资源
+
+| 来源 | 文件或系列 | 保存与处理 |
+| --- | --- | --- |
+| [Koolson/Qure](https://github.com/Koolson/Qure) | Steam、国家/地区、常用服务、代理、直连、断开等 PNG | 固定来源提交 `b16b260625f873266f6a6a9b88710132774997b8`，目录 `IconSet/Color`，原样保存。 |
+| [Anthropic 官网](https://www.anthropic.com/) | Anthropic.png | 公开 Apple Touch Icon，原样保存。 |
+| [Anthropic 官方媒体包](https://anthropic.com/press-kit) / [Newsroom](https://www.anthropic.com/news) | Anthropic-Symbol-Slate.svg | 官方标志路径原样保存。 |
+| Google 官方 gstatic.com | Google-G.png | 原始品牌 PNG，地址详见 sources.json。 |
+| [TradingView 官网](https://www.tradingview.com/) | TradingView.png | 官网公开的 180 × 180 Apple Touch Icon，原样保存。 |
+| [Battle.net 官方下载页](https://download.battle.net/en-us/desktop) | BattleNet.png | 官方页面声明的 196 × 196 PNG 站点图标，原样保存。 |
+| [Binance 官方 iOS 应用](https://apps.apple.com/hk/app/id1436799971) | Binance-Rounded-HD.png 的原始图像 | Apple 图片 CDN 的 1024px PNG；应用发行方为 Binance Switzerland AG。 |
+| [Microsoft Learn](https://learn.microsoft.com/en-us/entra/identity-platform/howto-add-branding-in-apps) | Microsoft-Symbol.svg | 官方下载的四彩标志 SVG，原样保存。 |
+| [Speedtest by Ookla 官方 iOS 应用](https://apps.apple.com/us/app/speedtest-by-ookla/id300704847) | Speedtest-HD.png | Apple 图片 CDN 的 1024px PNG 原样保存；发行方为 Ookla。 |
+
+## 规格转换与自定义排版
+
+| 文件或系列 | 处理 |
+| --- | --- |
+| Anthropic-QX.png、TradingView-QX.png、BattleNet-QX.png、Speedtest-QX.png | 对应原始品牌 PNG 缩小至 144 × 144、8-bit RGBA，重新编码并移除元数据。 |
+| Microsoft-HD.png、Microsoft-QX.png | 从原始官方 SVG 分别渲染 1024 × 1024 和 144 × 144；图案比例和配色保留，PNG 透明背景。 |
+| Anthropic-Tan.svg、Anthropic-Tan-HD.png、Anthropic-Tan-QX.png | 官方标志路径配 #D4A27F 暖棕圆角底，两套 PNG 分别从 SVG 渲染；暖棕底为自定义排版配色。 |
+| Binance-Rounded-HD.png | 从原始 1024px App Store 资源为外部黑色背景添加透明圆角，未放大 QX 小图。 |
+| Binance-Rounded-QX.png | 保留已发布的 144px 圆角版本。旧尖角文件已从当前版本移除，历史来源提交和 SHA-256 留在 sources.json。 |
+
+## 权利与逐文件记录
+
+| 项目 | 说明 |
+| --- | --- |
+| Qure 出处 | 上游 [README](https://github.com/Koolson/Qure/blob/b16b260625f873266f6a6a9b88710132774997b8/README.md) 要求转载注明出处，并用于非商业分享、学习交流。 |
+| 品牌权利 | 图像和商标的权利归相应权利人，本仓库不重新声明这些资源的许可或品牌背书。 |
+| 技术记录 | [sources.json](sources.json) 保存逐文件来源、转换说明、实际尺寸、大小及 SHA-256。 |
