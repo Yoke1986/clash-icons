@@ -354,55 +354,36 @@
       "sha256": "2612736989c0932b9d9057111f00b704aa1f146efcaa2ca853bade05d3f967ab"
     },
     {
-      "file": "icons/Microsoft-Glass.svg",
-      "source_kind": "Custom four-color glass-style SVG for Microsoft service",
-      "source_url": "https://learn.microsoft.com/en-us/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg",
-      "source_page": "https://learn.microsoft.com/en-us/entra/identity-platform/howto-add-branding-in-apps",
-      "reference_file": "icons/Microsoft-Symbol.svg",
-      "reference_sha256": "929f48f88c8ca7f3f5d294be47ec4caf51acc28ac25340c19a903125d7ecd84a",
-      "transformation": "Custom rounded four-color tiles, gradients, highlights and shadows; not an official Microsoft logo variant",
-      "official_brand_variant": false,
-      "format": "SVG",
-      "dimensions": [
-        1024,
-        1024
-      ],
-      "bytes": 3557,
-      "sha256": "90d1915621dd0723c89bb404141e939f8fe1379b18b222b4d099a59e05257347"
-    },
-    {
       "file": "icons/Microsoft-HD.png",
-      "source_kind": "PNG rendered from custom Microsoft glass-style SVG",
+      "source_kind": "PNG rendered from official Microsoft SVG",
       "source_url": "https://learn.microsoft.com/en-us/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg",
-      "bytes": 311164,
+      "bytes": 10024,
       "dimensions": [
         1024,
         1024
       ],
-      "sha256": "6d4e761020ae2d0d632afbeef80646750e3510602ef1f0aa8434938505728b6a",
+      "sha256": "a941a0fb92a70598c4914c999233f678089edc524210c27788ea44bd93903e95",
       "mode": "RGBA",
       "source_page": "https://learn.microsoft.com/en-us/entra/identity-platform/howto-add-branding-in-apps",
-      "source_file": "icons/Microsoft-Glass.svg",
-      "derived_from_sha256": "90d1915621dd0723c89bb404141e939f8fe1379b18b222b4d099a59e05257347",
-      "official_brand_variant": false,
-      "transformation": "Custom glass-style service icon rendered directly from vector at target size; transparent rounded canvas; 8-bit RGBA PNG"
+      "source_file": "icons/Microsoft-Symbol.svg",
+      "derived_from_sha256": "929f48f88c8ca7f3f5d294be47ec4caf51acc28ac25340c19a903125d7ecd84a",
+      "transformation": "Official SVG rendered directly at target size; original viewBox, proportions and colors retained; 8-bit RGBA PNG"
     },
     {
       "file": "icons/Microsoft-QX.png",
-      "source_kind": "PNG rendered from custom Microsoft glass-style SVG",
+      "source_kind": "PNG rendered from official Microsoft SVG",
       "source_url": "https://learn.microsoft.com/en-us/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg",
-      "bytes": 24627,
+      "bytes": 629,
       "dimensions": [
         144,
         144
       ],
-      "sha256": "ff5574cee99b443399617b6fafcd4e35dddcc7714dbf767e1e5674126ba5b9a2",
+      "sha256": "4b323bce1688c328875ebe872ff8f561ad981bff9f5f681b8c85b1dff031962b",
       "mode": "RGBA",
       "source_page": "https://learn.microsoft.com/en-us/entra/identity-platform/howto-add-branding-in-apps",
-      "source_file": "icons/Microsoft-Glass.svg",
-      "derived_from_sha256": "90d1915621dd0723c89bb404141e939f8fe1379b18b222b4d099a59e05257347",
-      "official_brand_variant": false,
-      "transformation": "Custom glass-style service icon rendered directly from vector at target size; transparent rounded canvas; 8-bit RGBA PNG"
+      "source_file": "icons/Microsoft-Symbol.svg",
+      "derived_from_sha256": "929f48f88c8ca7f3f5d294be47ec4caf51acc28ac25340c19a903125d7ecd84a",
+      "transformation": "Official SVG rendered directly at target size; original viewBox, proportions and colors retained; 8-bit RGBA PNG"
     },
     {
       "file": "icons/Microsoft-Symbol.svg",
