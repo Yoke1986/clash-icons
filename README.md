@@ -7,6 +7,7 @@
 | 预览 | 用途 | 文件 | 尺寸（px） | 说明 |
 | --- | --- | --- | --- | --- |
 | <img src="icons/Anthropic-Tan-HD.png" width="36" alt="AI / Anthropic · 暖棕圆角"> | AI / Anthropic · 暖棕圆角 | [Anthropic-Tan-HD.png](icons/Anthropic-Tan-HD.png) | 1024 × 1024 | 1024px，矢量源直接渲染 |
+| <img src="icons/Google-G-HD.png" width="36" alt="Google · 官方渐变 G"> | Google · 官方渐变 G | [Google-G-HD.png](icons/Google-G-HD.png) | 1024 × 1024 | 原始高清像素，移除多余透明留白 |
 | <img src="icons/Binance-Rounded-HD.png" width="36" alt="加密货币 / 币安 · 圆角"> | 加密货币 / 币安 · 圆角 | [Binance-Rounded-HD.png](icons/Binance-Rounded-HD.png) | 1024 × 1024 | 1024px 原始资源加圆角 |
 | <img src="icons/Microsoft-HD.png" width="36" alt="微软 Microsoft · 备用"> | 微软 Microsoft · 备用 | [Microsoft-HD.png](icons/Microsoft-HD.png) | 1024 × 1024 | 1024px，官方四彩标志矢量渲染 |
 | <img src="icons/Speedtest-Rounded-HD.png" width="36" alt="Speedtest · 圆角"> | Speedtest · 圆角 | [Speedtest-Rounded-HD.png](icons/Speedtest-Rounded-HD.png) | 1024 × 1024 | 1024px 原始图案，透明圆角与币安一致 |
@@ -18,6 +19,7 @@
 | 预览 | 用途 | 文件 | 尺寸（px） |
 | --- | --- | --- | --- |
 | <img src="icons/Anthropic-Tan-QX.png" width="36" alt="AI / Anthropic · 暖棕圆角"> | AI / Anthropic · 暖棕圆角 | [Anthropic-Tan-QX.png](icons/Anthropic-Tan-QX.png) | 144 × 144 |
+| <img src="icons/Google-G-QX.png" width="36" alt="Google · 官方渐变 G"> | Google · 官方渐变 G | [Google-G-QX.png](icons/Google-G-QX.png) | 144 × 144 |
 | <img src="icons/Binance-Rounded-QX.png" width="36" alt="加密货币 / 币安 · 圆角"> | 加密货币 / 币安 · 圆角 | [Binance-Rounded-QX.png](icons/Binance-Rounded-QX.png) | 144 × 144 |
 | <img src="icons/Microsoft-QX.png" width="36" alt="微软 Microsoft · 备用"> | 微软 Microsoft · 备用 | [Microsoft-QX.png](icons/Microsoft-QX.png) | 144 × 144 |
 | <img src="icons/Speedtest-Rounded-QX.png" width="36" alt="Speedtest · 圆角"> | Speedtest · 圆角 | [Speedtest-Rounded-QX.png](icons/Speedtest-Rounded-QX.png) | 144 × 144 |
@@ -31,7 +33,7 @@ QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导�
 | 预览 | 服务 | 文件 | 尺寸（px） |
 | --- | --- | --- | --- |
 | <img src="icons/Steam.png" width="36" alt="Steam · 备用"> | Steam · 备用 | [Steam.png](icons/Steam.png) | 144 × 144 |
-| <img src="icons/Google-G.png" width="36" alt="Google · 彩色 G"> | Google · 彩色 G | [Google-G.png](icons/Google-G.png) | 96 × 96 |
+| <img src="icons/Google-G.png" width="36" alt="Google · 经典彩色 G"> | Google · 经典彩色 G | [Google-G.png](icons/Google-G.png) | 96 × 96 |
 | <img src="icons/YouTube.png" width="36" alt="YouTube"> | YouTube | [YouTube.png](icons/YouTube.png) | 144 × 144 |
 | <img src="icons/X.png" width="36" alt="X / Twitter"> | X / Twitter | [X.png](icons/X.png) | 144 × 144 |
 | <img src="icons/Telegram.png" width="36" alt="Telegram"> | Telegram | [Telegram.png](icons/Telegram.png) | 144 × 144 |
@@ -79,6 +81,7 @@ QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导�
 | <img src="icons/Anthropic-QX.png" width="36" alt="Anthropic · 白底 QX 版"> | Anthropic · 白底 QX 版 | [Anthropic-QX.png](icons/Anthropic-QX.png) | 144 × 144 |
 | <img src="icons/Speedtest-HD.png" width="36" alt="Speedtest · 原版"> | Speedtest · 原版 | [Speedtest-HD.png](icons/Speedtest-HD.png) | 1024 × 1024 |
 | <img src="icons/Speedtest-QX.png" width="36" alt="Speedtest · 原版 QX"> | Speedtest · 原版 QX | [Speedtest-QX.png](icons/Speedtest-QX.png) | 144 × 144 |
+| <img src="icons/Google-G-Original.png" width="36" alt="Google · 官方原图含留白"> | Google · 官方原图（含留白） | [Google-G-Original.png](icons/Google-G-Original.png) | 2820 × 2820 |
 
 ## 矢量源文件
 
@@ -95,6 +98,6 @@ QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导�
 | 跟随仓库最新版本 | `https://raw.githubusercontent.com/Yoke1986/clash-icons/main/icons/文件名.png` |
 | 固定图片版本 | `https://raw.githubusercontent.com/Yoke1986/clash-icons/提交SHA/icons/文件名.png` |
 | 规格选择 | 已有 QX 专用版时使用 `-QX.png`；Clash 使用表中的原图或 `-HD.png`。Steam 等通用图标两端共用。 |
-| 文件数量 | 49 个图像文件：46 张 PNG、3 份 SVG。 |
+| 文件数量 | 52 个图像文件：49 张 PNG、3 份 SVG。 |
 | 逐文件来源与校验 | [sources.json](sources.json)：来源地址、实际尺寸、文件大小、SHA-256。 |
 | 出处与品牌权利 | [NOTICE.md](NOTICE.md) |

@@ -288,6 +288,80 @@
       "sha256": "0338f9c7e185e24bdc41bc55b7ee8c5cbb7dafb041d7a6addcef2884b85e73d3"
     },
     {
+      "file": "icons/Google-G-HD.png",
+      "source_kind": "Client PNG variant of Google official gradient G",
+      "source_url": "https://partnermarketinghub.withgoogle.com/brands/google/branding-guidelines/how-to-show-googles-brand/",
+      "source_page": "https://partnermarketinghub.withgoogle.com/brands/google/branding-guidelines/how-to-show-googles-brand/",
+      "bytes": 77960,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "d0cf66cde4f1e182fd55fc695ac237a5204d73f7903fc23d1d96914af907ae52",
+      "mode": "RGBA",
+      "source_file": "icons/Google-G-Original.png",
+      "derived_from_sha256": "4d5cfbd85af19c003770a74f8de210156ca42c54ac0a4cb0d95572c286c882a6",
+      "source_artwork_dimensions": [
+        2820,
+        2820
+      ],
+      "native_frame": [
+        898,
+        898,
+        1024,
+        1024
+      ],
+      "transformation": "Removed excess transparent clear space using a 1024px SVG viewport containing the native original; rendered at target size; no bitmap upscaling"
+    },
+    {
+      "file": "icons/Google-G-Original.png",
+      "source_kind": "Google official Partner Marketing Hub original PNG",
+      "source_url": "https://partnermarketinghub.withgoogle.com/brands/google/branding-guidelines/how-to-show-googles-brand/",
+      "source_page": "https://partnermarketinghub.withgoogle.com/brands/google/branding-guidelines/how-to-show-googles-brand/",
+      "bytes": 137714,
+      "dimensions": [
+        2820,
+        2820
+      ],
+      "sha256": "4d5cfbd85af19c003770a74f8de210156ca42c54ac0a4cb0d95572c286c882a6",
+      "mode": "RGBA",
+      "source_asset": "GoogleG_FullColor_RGB.png",
+      "retrieval": "Public signed download link provided by the official source page; expiring query omitted",
+      "transformation": "Original 2820px PNG copied unchanged, including transparent clear space",
+      "artwork_alpha_bounds": [
+        950,
+        940,
+        1870,
+        1880
+      ]
+    },
+    {
+      "file": "icons/Google-G-QX.png",
+      "source_kind": "Client PNG variant of Google official gradient G",
+      "source_url": "https://partnermarketinghub.withgoogle.com/brands/google/branding-guidelines/how-to-show-googles-brand/",
+      "source_page": "https://partnermarketinghub.withgoogle.com/brands/google/branding-guidelines/how-to-show-googles-brand/",
+      "bytes": 8471,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "56f282674b8122d717d94a050878ae9a7fc2f436b395011b1100781b01305212",
+      "mode": "RGBA",
+      "source_file": "icons/Google-G-Original.png",
+      "derived_from_sha256": "4d5cfbd85af19c003770a74f8de210156ca42c54ac0a4cb0d95572c286c882a6",
+      "source_artwork_dimensions": [
+        2820,
+        2820
+      ],
+      "native_frame": [
+        898,
+        898,
+        1024,
+        1024
+      ],
+      "transformation": "Removed excess transparent clear space using a 1024px SVG viewport containing the native original; rendered at target size; no bitmap upscaling"
+    },
+    {
       "file": "icons/Google-G.png",
       "source_kind": "brand website",
       "source_url": "https://www.gstatic.com/images/branding/product/2x/googleg_48dp.png",
