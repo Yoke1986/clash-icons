@@ -276,6 +276,40 @@
       "sha256": "9fb913b9abee0f0152a9acc6772e89762a071f5a9bd706420f5768e96cb24481"
     },
     {
+      "file": "icons/Global-Skeuomorphic-HD.png",
+      "source_kind": "Generated with built-in image_gen",
+      "generation_prompt": "Use case: stylized-concept\nAsset type: premium application group icon for 'All nodes', used at 36 px and 144 px, with a high-resolution master.\nPrimary request: create one exquisitely crafted skeuomorphic Earth globe icon, a beautiful polished three-dimensional spherical globe with rich deep blue oceans, recognizable emerald green and warm natural continents, delicate realistic surface relief, subtle glasslike highlights and a fine atmospheric rim.\nComposition: square canvas, single centered globe occupying about 88 percent of the canvas, Europe/Africa/Asia facing the viewer, simple spherical silhouette. Actual transparent background outside the globe. No stand, no tile, no surrounding objects, no big drop shadow. Carefully restrained detail so the icon remains legible at small sizes.\nLighting: soft premium product lighting from upper left, gentle dimensional shading, luminous but tasteful; polished and refined rather than cartoonish.\nConstraints: no words, no numbers, no labels, no borders, no watermark, no text, no background scene; output one high-resolution icon with real alpha transparency.",
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "source_sha256": "b1d24591a79c73fda4695c0d0d45d231e9b5a45b36682e2b9738b55f6bc60991",
+      "transformation": "Lanczos3 downscale from generated RGBA master; original alpha preserved; 8-bit RGBA PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 2385167,
+      "sha256": "73293c6daad9d72c04dd8755b1a35318034150ec3deeb04ff852081fc4b0b7da"
+    },
+    {
+      "file": "icons/Global-Skeuomorphic-QX.png",
+      "source_kind": "Generated with built-in image_gen",
+      "generation_prompt": "Use case: stylized-concept\nAsset type: premium application group icon for 'All nodes', used at 36 px and 144 px, with a high-resolution master.\nPrimary request: create one exquisitely crafted skeuomorphic Earth globe icon, a beautiful polished three-dimensional spherical globe with rich deep blue oceans, recognizable emerald green and warm natural continents, delicate realistic surface relief, subtle glasslike highlights and a fine atmospheric rim.\nComposition: square canvas, single centered globe occupying about 88 percent of the canvas, Europe/Africa/Asia facing the viewer, simple spherical silhouette. Actual transparent background outside the globe. No stand, no tile, no surrounding objects, no big drop shadow. Carefully restrained detail so the icon remains legible at small sizes.\nLighting: soft premium product lighting from upper left, gentle dimensional shading, luminous but tasteful; polished and refined rather than cartoonish.\nConstraints: no words, no numbers, no labels, no borders, no watermark, no text, no background scene; output one high-resolution icon with real alpha transparency.",
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "source_sha256": "b1d24591a79c73fda4695c0d0d45d231e9b5a45b36682e2b9738b55f6bc60991",
+      "transformation": "Lanczos3 downscale from generated RGBA master; original alpha preserved; 8-bit RGBA PNG",
+      "dimensions": [
+        144,
+        144
+      ],
+      "bytes": 53204,
+      "sha256": "91ffeed9479c5014e762011a00b608615f4d85e395f8b1e6e4e56832fa6fac74"
+    },
+    {
       "file": "icons/Global.png",
       "source_kind": "Koolson/Qure",
       "source_page": "https://github.com/Koolson/Qure",

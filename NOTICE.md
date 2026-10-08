@@ -4,6 +4,7 @@
 
 | 来源 | 文件或系列 | 保存与处理 |
 | --- | --- | --- |
+| 内置 image_gen 图像生成工具 | Global-Skeuomorphic-HD.png、Global-Skeuomorphic-QX.png | 自定义拟物地球，真实透明背景；由生成原图分别缩小为 1024px 与 144px；提示词、原图校验值记录在 sources.json。 |
 | [Koolson/Qure](https://github.com/Koolson/Qure) | Steam、国家/地区、常用服务、代理、直连、断开等 PNG | 固定来源提交 `b16b260625f873266f6a6a9b88710132774997b8`，目录 `IconSet/Color`，原样保存。 |
 | [Anthropic 官网](https://www.anthropic.com/) | Anthropic.png | 公开 Apple Touch Icon，原样保存。 |
 | [Anthropic 官方媒体包](https://anthropic.com/press-kit) / [Newsroom](https://www.anthropic.com/news) | Anthropic-Symbol-Slate.svg | 官方标志路径原样保存。 |
