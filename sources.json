@@ -254,6 +254,48 @@
       "sha256": "44ea29b4dfca9b1e8ee31d3a2ade0ec456cac39efa10fea1cf2bd3407fc9da1c"
     },
     {
+      "file": "icons/Final-Clownfish-HD.png",
+      "source_kind": "User-provided illustration edited with built-in image_gen",
+      "edit_prompt_summary": "Preserve the reference clownfish, colors, expression and details; remove the central watermark and make the background transparent.",
+      "user_approved": true,
+      "approved_on": "2026-10-15",
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "source_sha256": "5af9f8aa3b3fab8d00f2c9260454a1fc2a91d290e69b0aaf59426439fd2e24fc",
+      "transformation": "Approved edited transparent PNG preserved byte-for-byte at native resolution",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "bit_depth": 8,
+      "bytes": 1260794,
+      "sha256": "5af9f8aa3b3fab8d00f2c9260454a1fc2a91d290e69b0aaf59426439fd2e24fc"
+    },
+    {
+      "file": "icons/Final-Clownfish-QX.png",
+      "source_kind": "User-provided illustration edited with built-in image_gen",
+      "edit_prompt_summary": "Preserve the reference clownfish, colors, expression and details; remove the central watermark and make the background transparent.",
+      "user_approved": true,
+      "approved_on": "2026-10-15",
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "source_sha256": "5af9f8aa3b3fab8d00f2c9260454a1fc2a91d290e69b0aaf59426439fd2e24fc",
+      "transformation": "Lanczos3 downscale directly from approved edited PNG; alpha preserved; 8-bit RGBA; non-interlaced PNG",
+      "dimensions": [
+        144,
+        144
+      ],
+      "mode": "RGBA",
+      "bit_depth": 8,
+      "bytes": 35665,
+      "sha256": "a8656096bc1608fca8b00af8c4e616afae02bd9d56d6c218500c1594ca0afc33"
+    },
+    {
       "file": "icons/Final.png",
       "source_kind": "Koolson/Qure",
       "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Final.png",

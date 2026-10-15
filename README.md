@@ -7,6 +7,7 @@
 | 预览 | 用途 | 文件 | 尺寸（px） | 说明 |
 | --- | --- | --- | --- | --- |
 | <img src="icons/Global-Skeuomorphic-HD.png" width="36" alt="所有节点 · 拟物地球"> | 所有节点 · 拟物地球 | [Global-Skeuomorphic-HD.png](icons/Global-Skeuomorphic-HD.png) | 1024 × 1024 | 立体地球，透明背景，高清版 |
+| <img src="icons/Final-Clownfish-HD.png" width="36" alt="漏网之鱼 · 可爱小丑鱼"> | 漏网之鱼 · 可爱小丑鱼 | [Final-Clownfish-HD.png](icons/Final-Clownfish-HD.png) | 1254 × 1254 | 已确认的透明底版本，1254px 原图完整保留 |
 | <img src="icons/Anthropic-Tan-HD.png" width="36" alt="AI / Anthropic · 暖棕圆角"> | AI / Anthropic · 暖棕圆角 | [Anthropic-Tan-HD.png](icons/Anthropic-Tan-HD.png) | 1024 × 1024 | 1024px，矢量源直接渲染 |
 | <img src="icons/Google-G-HD.png" width="36" alt="Google · 官方渐变 G"> | Google · 官方渐变 G | [Google-G-HD.png](icons/Google-G-HD.png) | 1024 × 1024 | 原始高清像素，移除多余透明留白 |
 | <img src="icons/Binance-Rounded-HD.png" width="36" alt="加密货币 / 币安 · 圆角"> | 加密货币 / 币安 · 圆角 | [Binance-Rounded-HD.png](icons/Binance-Rounded-HD.png) | 1024 × 1024 | 1024px 原始资源加圆角 |
@@ -20,6 +21,7 @@
 | 预览 | 用途 | 文件 | 尺寸（px） |
 | --- | --- | --- | --- |
 | <img src="icons/Global-Skeuomorphic-QX.png" width="36" alt="所有节点 · 拟物地球"> | 所有节点 · 拟物地球 | [Global-Skeuomorphic-QX.png](icons/Global-Skeuomorphic-QX.png) | 144 × 144 |
+| <img src="icons/Final-Clownfish-QX.png" width="36" alt="漏网之鱼 · 可爱小丑鱼"> | 漏网之鱼 · 可爱小丑鱼 | [Final-Clownfish-QX.png](icons/Final-Clownfish-QX.png) | 144 × 144 |
 | <img src="icons/Anthropic-Tan-QX.png" width="36" alt="AI / Anthropic · 暖棕圆角"> | AI / Anthropic · 暖棕圆角 | [Anthropic-Tan-QX.png](icons/Anthropic-Tan-QX.png) | 144 × 144 |
 | <img src="icons/Google-G-QX.png" width="36" alt="Google · 官方渐变 G"> | Google · 官方渐变 G | [Google-G-QX.png](icons/Google-G-QX.png) | 144 × 144 |
 | <img src="icons/Binance-Rounded-QX.png" width="36" alt="加密货币 / 币安 · 圆角"> | 加密货币 / 币安 · 圆角 | [Binance-Rounded-QX.png](icons/Binance-Rounded-QX.png) | 144 × 144 |
@@ -100,6 +102,6 @@ QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导�
 | 跟随仓库最新版本 | `https://raw.githubusercontent.com/Yoke1986/clash-icons/main/icons/文件名.png` |
 | 固定图片版本 | `https://raw.githubusercontent.com/Yoke1986/clash-icons/提交SHA/icons/文件名.png` |
 | 规格选择 | 已有 QX 专用版时使用 `-QX.png`；Clash 使用表中的原图或 `-HD.png`。Steam 等通用图标两端共用。 |
-| 文件数量 | 54 个图像文件：51 张 PNG、3 份 SVG。 |
+| 文件数量 | 56 个图像文件：53 张 PNG、3 份 SVG。 |
 | 逐文件来源与校验 | [sources.json](sources.json)：来源地址、实际尺寸、文件大小、SHA-256。 |
 | 出处与品牌权利 | [NOTICE.md](NOTICE.md) |

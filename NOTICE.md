@@ -4,6 +4,7 @@
 
 | 来源 | 文件或系列 | 保存与处理 |
 | --- | --- | --- |
+| 用户提供的插画，经内置 image_gen 编辑 | Final-Clownfish-HD.png、Final-Clownfish-QX.png | 按用户确认的版本处理水印和透明背景；高清版保留 1254px 编辑结果，QX 版从该图缩小至 144px。原插画权利归相应权利人，本仓库不另行声明其许可。 |
 | 内置 image_gen 图像生成工具 | Global-Skeuomorphic-HD.png、Global-Skeuomorphic-QX.png | 自定义拟物地球，真实透明背景；由生成原图分别缩小为 1024px 与 144px；提示词、原图校验值记录在 sources.json。 |
 | [Koolson/Qure](https://github.com/Koolson/Qure) | Steam、国家/地区、常用服务、代理、直连、断开等 PNG | 固定来源提交 `b16b260625f873266f6a6a9b88710132774997b8`，目录 `IconSet/Color`，原样保存。 |
 | [Anthropic 官网](https://www.anthropic.com/) | Anthropic.png | 公开 Apple Touch Icon，原样保存。 |
