@@ -4,6 +4,7 @@
 
 | 来源 | 文件或系列 | 保存与处理 |
 | --- | --- | --- |
+| [Lucide fish](https://lucide.dev/icons/fish) | Final-Fish.svg、Final-Fish-HD.png、Final-Fish-QX.png | 保留原鱼形路径，配自定义蓝青圆角底；固定上游提交 `d672fc43dbf60962d9d829e35bc3b3e5ed89a178`，ISC 许可全文见下方。 |
 | 内置 image_gen 图像生成工具 | Global-Skeuomorphic-HD.png、Global-Skeuomorphic-QX.png | 自定义拟物地球，真实透明背景；由生成原图分别缩小为 1024px 与 144px；提示词、原图校验值记录在 sources.json。 |
 | [Koolson/Qure](https://github.com/Koolson/Qure) | Steam、国家/地区、常用服务、代理、直连、断开等 PNG | 固定来源提交 `b16b260625f873266f6a6a9b88710132774997b8`，目录 `IconSet/Color`，原样保存。 |
 | [Anthropic 官网](https://www.anthropic.com/) | Anthropic.png | 公开 Apple Touch Icon，原样保存。 |
@@ -35,3 +36,25 @@
 | Qure 出处 | 上游 [README](https://github.com/Koolson/Qure/blob/b16b260625f873266f6a6a9b88710132774997b8/README.md) 要求转载注明出处，并用于非商业分享、学习交流。 |
 | 品牌权利 | 图像和商标的权利归相应权利人，本仓库不重新声明这些资源的许可或品牌背书。 |
 | 技术记录 | [sources.json](sources.json) 保存逐文件来源、转换说明、实际尺寸、大小及 SHA-256。 |
+
+## Lucide 鱼形图标许可
+
+适用于 Final-Fish.svg、Final-Fish-HD.png 和 Final-Fish-QX.png 中的鱼形。
+
+```text
+ISC License
+
+Copyright (c) 2026 Lucide Icons and Contributors
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+```

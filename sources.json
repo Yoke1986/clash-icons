@@ -254,6 +254,63 @@
       "sha256": "44ea29b4dfca9b1e8ee31d3a2ade0ec456cac39efa10fea1cf2bd3407fc9da1c"
     },
     {
+      "file": "icons/Final-Fish-HD.png",
+      "source_kind": "Lucide fish with custom rounded blue-cyan SVG composition",
+      "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/d672fc43dbf60962d9d829e35bc3b3e5ed89a178/icons/fish.svg",
+      "source_page": "https://lucide.dev/icons/fish",
+      "source_commit": "d672fc43dbf60962d9d829e35bc3b3e5ed89a178",
+      "source_sha256": "b192b77edc25b1f952bca580d8ffa976258cf2d3127dd2c7040803b388bdd3db",
+      "license": "ISC; copyright and permission notice preserved in NOTICE.md and SVG metadata",
+      "transformation": "Original six fish paths retained; white rounded strokes on a blue-cyan rounded tile; independently rendered from SVG at target size",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 168047,
+      "sha256": "8df3eebba524bccec6ef2938c407c705af8ed4def0562e59952e1e75e6ff951d",
+      "source_file": "icons/Final-Fish.svg",
+      "mode": "RGBA",
+      "bit_depth": 8,
+      "interlaced": false
+    },
+    {
+      "file": "icons/Final-Fish-QX.png",
+      "source_kind": "Lucide fish with custom rounded blue-cyan SVG composition",
+      "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/d672fc43dbf60962d9d829e35bc3b3e5ed89a178/icons/fish.svg",
+      "source_page": "https://lucide.dev/icons/fish",
+      "source_commit": "d672fc43dbf60962d9d829e35bc3b3e5ed89a178",
+      "source_sha256": "b192b77edc25b1f952bca580d8ffa976258cf2d3127dd2c7040803b388bdd3db",
+      "license": "ISC; copyright and permission notice preserved in NOTICE.md and SVG metadata",
+      "transformation": "Original six fish paths retained; white rounded strokes on a blue-cyan rounded tile; independently rendered from SVG at target size",
+      "dimensions": [
+        144,
+        144
+      ],
+      "bytes": 17222,
+      "sha256": "e553e3d81df5a3ddc47262e46e3ded790239d5969b732dd3d299c8b9744a2e0c",
+      "source_file": "icons/Final-Fish.svg",
+      "mode": "RGBA",
+      "bit_depth": 8,
+      "interlaced": false
+    },
+    {
+      "file": "icons/Final-Fish.svg",
+      "source_kind": "Lucide fish with custom rounded blue-cyan SVG composition",
+      "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/d672fc43dbf60962d9d829e35bc3b3e5ed89a178/icons/fish.svg",
+      "source_page": "https://lucide.dev/icons/fish",
+      "source_commit": "d672fc43dbf60962d9d829e35bc3b3e5ed89a178",
+      "source_sha256": "b192b77edc25b1f952bca580d8ffa976258cf2d3127dd2c7040803b388bdd3db",
+      "license": "ISC; copyright and permission notice preserved in NOTICE.md and SVG metadata",
+      "transformation": "Original six fish paths retained; white rounded strokes on a blue-cyan rounded tile; independently rendered from SVG at target size",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 2759,
+      "sha256": "f91308fe3329e86567d680e53e2516ce3f550ca083310c6f734fa2fdaab99a2a",
+      "format": "SVG"
+    },
+    {
       "file": "icons/Final.png",
       "source_kind": "Koolson/Qure",
       "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Final.png",
