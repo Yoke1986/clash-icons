@@ -8,6 +8,7 @@
 | --- | --- | --- | --- | --- |
 | <img src="icons/Global-Skeuomorphic-HD.png" width="36" alt="所有节点 · 拟物地球"> | 所有节点 · 拟物地球 | [Global-Skeuomorphic-HD.png](icons/Global-Skeuomorphic-HD.png) | 1024 × 1024 | 立体地球，透明背景，高清版 |
 | <img src="icons/Final-Clownfish-HD.png" width="36" alt="漏网之鱼 · 可爱小丑鱼"> | 漏网之鱼 · 可爱小丑鱼 | [Final-Clownfish-HD.png](icons/Final-Clownfish-HD.png) | 1254 × 1254 | 已确认的透明底版本，1254px 原图完整保留 |
+| <img src="icons/Claude-Spark-Clay-HD.png" width="36" alt="Claude · 透明星芒"> | Claude · 透明星芒 | [Claude-Spark-Clay-HD.png](icons/Claude-Spark-Clay-HD.png) | 2048 × 2048 | 官方 SVG 直接渲染，透明背景，原配色 |
 | <img src="icons/Anthropic-Tan-HD.png" width="36" alt="AI / Anthropic · 暖棕圆角"> | AI / Anthropic · 暖棕圆角 | [Anthropic-Tan-HD.png](icons/Anthropic-Tan-HD.png) | 1024 × 1024 | 1024px，矢量源直接渲染 |
 | <img src="icons/Google-G-HD.png" width="36" alt="Google · 官方渐变 G"> | Google · 官方渐变 G | [Google-G-HD.png](icons/Google-G-HD.png) | 1024 × 1024 | 原始高清像素，移除多余透明留白 |
 | <img src="icons/Binance-Rounded-HD.png" width="36" alt="加密货币 / 币安 · 圆角"> | 加密货币 / 币安 · 圆角 | [Binance-Rounded-HD.png](icons/Binance-Rounded-HD.png) | 1024 × 1024 | 1024px 原始资源加圆角 |
@@ -22,6 +23,7 @@
 | --- | --- | --- | --- |
 | <img src="icons/Global-Skeuomorphic-QX.png" width="36" alt="所有节点 · 拟物地球"> | 所有节点 · 拟物地球 | [Global-Skeuomorphic-QX.png](icons/Global-Skeuomorphic-QX.png) | 144 × 144 |
 | <img src="icons/Final-Clownfish-QX.png" width="36" alt="漏网之鱼 · 可爱小丑鱼"> | 漏网之鱼 · 可爱小丑鱼 | [Final-Clownfish-QX.png](icons/Final-Clownfish-QX.png) | 144 × 144 |
+| <img src="icons/Claude-Spark-Clay-QX.png" width="36" alt="Claude · 透明星芒"> | Claude · 透明星芒 | [Claude-Spark-Clay-QX.png](icons/Claude-Spark-Clay-QX.png) | 144 × 144 |
 | <img src="icons/Anthropic-Tan-QX.png" width="36" alt="AI / Anthropic · 暖棕圆角"> | AI / Anthropic · 暖棕圆角 | [Anthropic-Tan-QX.png](icons/Anthropic-Tan-QX.png) | 144 × 144 |
 | <img src="icons/Google-G-QX.png" width="36" alt="Google · 官方渐变 G"> | Google · 官方渐变 G | [Google-G-QX.png](icons/Google-G-QX.png) | 144 × 144 |
 | <img src="icons/Binance-Rounded-QX.png" width="36" alt="加密货币 / 币安 · 圆角"> | 加密货币 / 币安 · 圆角 | [Binance-Rounded-QX.png](icons/Binance-Rounded-QX.png) | 144 × 144 |
@@ -81,6 +83,7 @@ QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导�
 | --- | --- | --- | --- |
 | <img src="icons/AI.png" width="36" alt="AI · Qure 原版"> | AI · Qure 原版 | [AI.png](icons/AI.png) | 144 × 144 |
 | <img src="icons/Google.png" width="36" alt="Google · Qure 原版"> | Google · Qure 原版 | [Google.png](icons/Google.png) | 144 × 144 |
+| <img src="icons/Claude-Spark-Clay-Original.png" width="36" alt="Claude · 官方 PNG 原图"> | Claude · 官方 PNG 原图 | [Claude-Spark-Clay-Original.png](icons/Claude-Spark-Clay-Original.png) | 937 × 937 |
 | <img src="icons/Anthropic.png" width="36" alt="Anthropic · 原版白底"> | Anthropic · 原版白底 | [Anthropic.png](icons/Anthropic.png) | 256 × 256 |
 | <img src="icons/Anthropic-QX.png" width="36" alt="Anthropic · 白底 QX 版"> | Anthropic · 白底 QX 版 | [Anthropic-QX.png](icons/Anthropic-QX.png) | 144 × 144 |
 | <img src="icons/Speedtest-HD.png" width="36" alt="Speedtest · 原版"> | Speedtest · 原版 | [Speedtest-HD.png](icons/Speedtest-HD.png) | 1024 × 1024 |
@@ -92,6 +95,7 @@ QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导�
 | 用途 | 文件 | 说明 |
 | --- | --- | --- |
 | 微软 · 官方四彩标志 | [Microsoft-Symbol.svg](icons/Microsoft-Symbol.svg) | Microsoft Learn 官方 SVG，原样保存 |
+| Claude · 官方透明星芒 | [Claude-Spark-Clay-Original.svg](icons/Claude-Spark-Clay-Original.svg) | 官方媒体包 SVG 原样保存，用于独立导出高清版与 QX 版 |
 | Anthropic · 官方标志 | [Anthropic-Symbol-Slate.svg](icons/Anthropic-Symbol-Slate.svg) | Anthropic 官方媒体包，原样保存 |
 | Anthropic · 暖棕圆角底 | [Anthropic-Tan.svg](icons/Anthropic-Tan.svg) | 官方标志配自定义暖棕底，用于独立渲染两套 PNG |
 
@@ -102,6 +106,6 @@ QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导�
 | 跟随仓库最新版本 | `https://raw.githubusercontent.com/Yoke1986/clash-icons/main/icons/文件名.png` |
 | 固定图片版本 | `https://raw.githubusercontent.com/Yoke1986/clash-icons/提交SHA/icons/文件名.png` |
 | 规格选择 | 已有 QX 专用版时使用 `-QX.png`；Clash 使用表中的原图或 `-HD.png`。Steam 等通用图标两端共用。 |
-| 文件数量 | 56 个图像文件：53 张 PNG、3 份 SVG。 |
+| 文件数量 | 60 个图像文件：56 张 PNG、4 份 SVG。 |
 | 逐文件来源与校验 | [sources.json](sources.json)：来源地址、实际尺寸、文件大小、SHA-256。 |
 | 出处与品牌权利 | [NOTICE.md](NOTICE.md) |

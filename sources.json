@@ -219,6 +219,79 @@
       "historical_source_raw_url": "https://raw.githubusercontent.com/Yoke1986/clash-icons/5070b8b689c81591b384d934d0054843e5e7f03d/icons/Binance-QX.png"
     },
     {
+      "file": "icons/Claude-Spark-Clay-HD.png",
+      "source_kind": "Anthropic official press kit",
+      "source_url": "https://anthropic.com/press-kit",
+      "source_page": "https://www.anthropic.com/news",
+      "archive_sha256": "c68ac92df86c825f95177e24016fcc9a8863a3fd4ca344fe6f0700b2c1e07151",
+      "archive_entry": "Anthropic media resources/Anthropic logos/Claude logos/3 Claude Spark/SVG/Claude Spark - Clay.svg",
+      "transformation": "Rendered directly from original official SVG; paths and colors unchanged; transparent 8-bit RGBA PNG",
+      "format": "PNG",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 123374,
+      "sha256": "667a29f746a76619bd99cc08ae857c6afaa3dfaef6f1776f7bb07e5840877416",
+      "source_file": "icons/Claude-Spark-Clay-Original.svg",
+      "derived_from_sha256": "6d53db4be375e899c937c26cf16684a80d6e869b1928d72b37748bef2560e219",
+      "mode": "RGBA",
+      "bit_depth": 8
+    },
+    {
+      "file": "icons/Claude-Spark-Clay-Original.png",
+      "source_kind": "Anthropic official press kit",
+      "source_url": "https://anthropic.com/press-kit",
+      "source_page": "https://www.anthropic.com/news",
+      "archive_sha256": "c68ac92df86c825f95177e24016fcc9a8863a3fd4ca344fe6f0700b2c1e07151",
+      "archive_entry": "Anthropic media resources/Anthropic logos/Claude logos/3 Claude Spark/PNG/Claude Spark - Clay.png",
+      "transformation": "Official original transparent PNG preserved byte-for-byte",
+      "format": "PNG",
+      "dimensions": [
+        937,
+        937
+      ],
+      "bytes": 39563,
+      "sha256": "c7d8415b1edba67e5337d3684b480b563826f07be9e28e10ccc14bf92037ef6d",
+      "mode": "RGBA"
+    },
+    {
+      "file": "icons/Claude-Spark-Clay-Original.svg",
+      "source_kind": "Anthropic official press kit",
+      "source_url": "https://anthropic.com/press-kit",
+      "source_page": "https://www.anthropic.com/news",
+      "archive_sha256": "c68ac92df86c825f95177e24016fcc9a8863a3fd4ca344fe6f0700b2c1e07151",
+      "archive_entry": "Anthropic media resources/Anthropic logos/Claude logos/3 Claude Spark/SVG/Claude Spark - Clay.svg",
+      "transformation": "Official original SVG preserved byte-for-byte",
+      "format": "SVG",
+      "dimensions": [
+        94,
+        94
+      ],
+      "bytes": 2580,
+      "sha256": "6d53db4be375e899c937c26cf16684a80d6e869b1928d72b37748bef2560e219"
+    },
+    {
+      "file": "icons/Claude-Spark-Clay-QX.png",
+      "source_kind": "Anthropic official press kit",
+      "source_url": "https://anthropic.com/press-kit",
+      "source_page": "https://www.anthropic.com/news",
+      "archive_sha256": "c68ac92df86c825f95177e24016fcc9a8863a3fd4ca344fe6f0700b2c1e07151",
+      "archive_entry": "Anthropic media resources/Anthropic logos/Claude logos/3 Claude Spark/SVG/Claude Spark - Clay.svg",
+      "transformation": "Independently rendered directly from original official SVG; paths and colors unchanged; transparent 8-bit RGBA PNG",
+      "format": "PNG",
+      "dimensions": [
+        144,
+        144
+      ],
+      "bytes": 5188,
+      "sha256": "ba66c8cf6f6163b5c0a570be66498fb643bfdcc66deab85d11e2d5fc4bbe6751",
+      "source_file": "icons/Claude-Spark-Clay-Original.svg",
+      "derived_from_sha256": "6d53db4be375e899c937c26cf16684a80d6e869b1928d72b37748bef2560e219",
+      "mode": "RGBA",
+      "bit_depth": 8
+    },
+    {
       "file": "icons/Direct.png",
       "source_kind": "Koolson/Qure",
       "source_url": "https://raw.githubusercontent.com/Koolson/Qure/b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Direct.png",

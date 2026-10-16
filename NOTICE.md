@@ -8,7 +8,7 @@
 | 内置 image_gen 图像生成工具 | Global-Skeuomorphic-HD.png、Global-Skeuomorphic-QX.png | 自定义拟物地球，真实透明背景；由生成原图分别缩小为 1024px 与 144px；提示词、原图校验值记录在 sources.json。 |
 | [Koolson/Qure](https://github.com/Koolson/Qure) | Steam、国家/地区、常用服务、代理、直连、断开等 PNG | 固定来源提交 `b16b260625f873266f6a6a9b88710132774997b8`，目录 `IconSet/Color`，原样保存。 |
 | [Anthropic 官网](https://www.anthropic.com/) | Anthropic.png | 公开 Apple Touch Icon，原样保存。 |
-| [Anthropic 官方媒体包](https://anthropic.com/press-kit) / [Newsroom](https://www.anthropic.com/news) | Anthropic-Symbol-Slate.svg | 官方标志路径原样保存。 |
+| [Anthropic 官方媒体包](https://anthropic.com/press-kit) / [Newsroom](https://www.anthropic.com/news) | Anthropic-Symbol-Slate.svg、Claude-Spark-Clay-Original.svg、Claude-Spark-Clay-Original.png | 官方媒体包中的 SVG、PNG 原文件，内容原样保存。 |
 | Google 官方 gstatic.com | Google-G.png | 原始品牌 PNG，地址详见 sources.json。 |
 | [Google Partner Marketing Hub](https://partnermarketinghub.withgoogle.com/brands/google/branding-guidelines/how-to-show-googles-brand/) | Google-G-Original.png | 官方公开下载的 GoogleG_FullColor_RGB.png，2820 × 2820，原始透明留白与文件内容保留。 |
 | [TradingView 官网](https://www.tradingview.com/) | TradingView.png | 官网公开的 180 × 180 Apple Touch Icon，原样保存。 |
@@ -24,6 +24,7 @@
 | Anthropic-QX.png、TradingView-QX.png、BattleNet-QX.png、Speedtest-QX.png | 对应原始品牌 PNG 缩小至 144 × 144、8-bit RGBA，重新编码并移除元数据。 |
 | Google-G-HD.png、Google-G-QX.png | 沿用官方原图图案与配色，仅去掉多余透明留白，再独立导出 1024px 与 144px；未放大 96px 旧图，现有经典彩色 G 文件保留。 |
 | Microsoft-HD.png、Microsoft-QX.png | 从原始官方 SVG 分别渲染 1024 × 1024 和 144 × 144；图案比例和配色保留，PNG 透明背景。 |
+| Claude-Spark-Clay-HD.png、Claude-Spark-Clay-QX.png | 分别从官方 Claude Spark - Clay SVG 直接导出 2048px 与 144px；图形与配色保持原样，8-bit RGBA 透明 PNG；官方 SVG 和 937px PNG 原图单独保留。 |
 | Anthropic-Tan.svg、Anthropic-Tan-HD.png、Anthropic-Tan-QX.png | 官方标志路径配 #D4A27F 暖棕圆角底，两套 PNG 分别从 SVG 渲染；暖棕底为自定义排版配色。 |
 | Speedtest-Rounded-HD.png、Speedtest-Rounded-QX.png | 对官方原始 1024px App Store 图像添加透明圆角，弧度与币安版一致；图案保留，两套均由含原图的 SVG 独立渲染，原版 PNG 继续保留。 |
 | Binance-Rounded-HD.png | 从原始 1024px App Store 资源为外部黑色背景添加透明圆角，未放大 QX 小图。 |
