@@ -17,12 +17,18 @@
 | [Microsoft Learn](https://learn.microsoft.com/en-us/entra/identity-platform/howto-add-branding-in-apps) | Microsoft-Symbol.svg | 官方下载的四彩标志 SVG，原样保存。 |
 | [Speedtest by Ookla 官方 iOS 应用](https://apps.apple.com/us/app/speedtest-by-ookla/id300704847) | Speedtest-HD.png | Apple 图片 CDN 的 1024px PNG 原样保存；发行方为 Ookla。 |
 | [Muse from Meta 官方 iOS 应用](https://apps.apple.com/us/app/muse-from-meta/id6760173601) | Muse-HD.png | Apple 图片 CDN 的官方 1024 × 1024 PNG 原样保存；发行方为 Meta Platforms, Inc.。 |
+| [Meta 官方品牌资源](https://www.meta.com/brand/resources/meta/company-brand/) | Meta-Original.svg | 官方公司标志包中的正色 SVG，原样保存；归档文件路径和校验值记录在 sources.json。 |
+| [Instagram 官方品牌资源](https://www.meta.com/brand/resources/instagram/instagram-brand/) | Instagram-Original.png | 官方 Gradient Glyph 透明 PNG，5000 × 5000，原样保存。 |
+| [Muse 官网](https://muse.ai) | Muse-Transparent-Original.svg | 官网公开的蓝色渐变标志，原生透明背景；与原有白底 App Store 图标并列保留。 |
 
 ## 规格转换与自定义排版
 
 | 文件或系列 | 处理 |
 | --- | --- |
 | Muse-QX.png | 从 Muse-HD.png 官方高清原图缩小至 144 × 144、8-bit RGBA、非交错 PNG；保留原图案、配色和背景。 |
+| Meta-Symbol.svg、Meta-HD.png、Meta-QX.png | 从官方原件提取已有 Symbol 和所需定义；不修改图案与配色，仅置于透明正方形画布，分别导出 1024px 与 144px。 |
+| Instagram-HD.png、Instagram-QX.png | 从官方 5000px 透明 PNG 分别缩小到 1024px 与 144px，增加透明留白；不放大小图、不重绘原图。 |
+| Muse-Transparent-HD.png、Muse-Transparent-QX.png | 分别从官网 SVG 直接导出 1024px 与 144px，增加透明留白；原标志与渐变配色保持。 |
 | Anthropic-QX.png、TradingView-QX.png、BattleNet-QX.png、Speedtest-QX.png | 对应原始品牌 PNG 缩小至 144 × 144、8-bit RGBA，重新编码并移除元数据。 |
 | Google-G-HD.png、Google-G-QX.png | 沿用官方原图图案与配色，仅去掉多余透明留白，再独立导出 1024px 与 144px；未放大 96px 旧图，现有经典彩色 G 文件保留。 |
 | Microsoft-HD.png、Microsoft-QX.png | 从原始官方 SVG 分别渲染 1024 × 1024 和 144 × 144；图案比例和配色保留，PNG 透明背景。 |

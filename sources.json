@@ -555,6 +555,64 @@
       "sha256": "eacee82c61b21e7a926b4f393403bf8f783b3109352b7dbd20b6ffd9c0d742c2"
     },
     {
+      "file": "icons/Instagram-HD.png",
+      "retrieved_date": "2026-10-19",
+      "bytes": 569882,
+      "sha256": "901b3e3fa7fa85d267fd028ca2c26821236e72eebf14fceeb4f32397e76d48d4",
+      "source_kind": "Instagram official gradient glyph",
+      "source_url": "https://www.meta.com/brand/resources/instagram/instagram-brand/",
+      "source_page": "https://www.meta.com/brand/resources/instagram/instagram-brand/",
+      "archive_sha256": "a9e5cbe63dc01279b3d12d536ea9d94ab5236521601bd5cc4b4caf7ba7060e82",
+      "archive_entry": "01 Static Glyph/01 Gradient Glyph/Instagram_Glyph_Gradient.png",
+      "source_file": "icons/Instagram-Original.png",
+      "derived_from_sha256": "21f86b55f986848665ce54ab354ff6b43b7705e6c421d90c04369882b5956766",
+      "transformation": "Resized directly from original 5000px PNG; original artwork and colors preserved; transparent square canvas with 6 percent horizontal margin; 8-bit RGBA non-interlaced PNG",
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "icons/Instagram-Original.png",
+      "retrieved_date": "2026-10-19",
+      "bytes": 2648790,
+      "sha256": "21f86b55f986848665ce54ab354ff6b43b7705e6c421d90c04369882b5956766",
+      "source_kind": "Instagram official gradient glyph",
+      "source_url": "https://www.meta.com/brand/resources/instagram/instagram-brand/",
+      "source_page": "https://www.meta.com/brand/resources/instagram/instagram-brand/",
+      "archive_sha256": "a9e5cbe63dc01279b3d12d536ea9d94ab5236521601bd5cc4b4caf7ba7060e82",
+      "archive_entry": "01 Static Glyph/01 Gradient Glyph/Instagram_Glyph_Gradient.png",
+      "transformation": "Original official file preserved byte for byte",
+      "format": "PNG",
+      "dimensions": [
+        5000,
+        5000
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "icons/Instagram-QX.png",
+      "retrieved_date": "2026-10-19",
+      "bytes": 22559,
+      "sha256": "543c1a0e487752ae95698424ead8ce946de65233b4806aa26871357573ec7ae1",
+      "source_kind": "Instagram official gradient glyph",
+      "source_url": "https://www.meta.com/brand/resources/instagram/instagram-brand/",
+      "source_page": "https://www.meta.com/brand/resources/instagram/instagram-brand/",
+      "archive_sha256": "a9e5cbe63dc01279b3d12d536ea9d94ab5236521601bd5cc4b4caf7ba7060e82",
+      "archive_entry": "01 Static Glyph/01 Gradient Glyph/Instagram_Glyph_Gradient.png",
+      "source_file": "icons/Instagram-Original.png",
+      "derived_from_sha256": "21f86b55f986848665ce54ab354ff6b43b7705e6c421d90c04369882b5956766",
+      "transformation": "Resized directly from original 5000px PNG; original artwork and colors preserved; transparent square canvas with 6 percent horizontal margin; 8-bit RGBA non-interlaced PNG",
+      "format": "PNG",
+      "dimensions": [
+        144,
+        144
+      ],
+      "mode": "RGBA"
+    },
+    {
       "file": "icons/Japan.png",
       "source_kind": "Koolson/Qure",
       "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Japan.png",
@@ -575,6 +633,76 @@
         144
       ],
       "sha256": "2612736989c0932b9d9057111f00b704aa1f146efcaa2ca853bade05d3f967ab"
+    },
+    {
+      "file": "icons/Meta-HD.png",
+      "retrieved_date": "2026-10-19",
+      "bytes": 47860,
+      "sha256": "42a940de343bb25f33422502d5d26c86388e14d281bb52bc8dee36af0b45abbf",
+      "source_kind": "Meta official brand resource pack",
+      "source_url": "https://www.meta.com/brand/resources/meta/company-brand/",
+      "source_page": "https://www.meta.com/brand/resources/meta/company-brand/",
+      "archive_sha256": "55294fb54c3eaf034944e81c3cd8620aebdcb87a4ef66a7da96f76cf5cfd12d1",
+      "archive_entry": "Meta_Company Lockup/1 Positive Primary/RGB/Meta_lockup_positive primary_RGB.svg",
+      "source_file": "icons/Meta-Symbol.svg",
+      "derived_from_sha256": "6a2a6001a06958db18c3415d9d105d7427f0bb3b2f7009efaeb35457c856f1be",
+      "transformation": "Rendered independently at target size from official source SVG; original artwork and colors preserved; transparent square canvas with 6 percent horizontal margin; 8-bit RGBA non-interlaced PNG",
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "icons/Meta-Original.svg",
+      "retrieved_date": "2026-10-19",
+      "bytes": 374068,
+      "sha256": "3d90eb90e4440065a2706615986ff65b0e93f02dbc9ab9a37651fefb80d2411a",
+      "source_kind": "Meta official brand resource pack",
+      "source_url": "https://www.meta.com/brand/resources/meta/company-brand/",
+      "source_page": "https://www.meta.com/brand/resources/meta/company-brand/",
+      "archive_sha256": "55294fb54c3eaf034944e81c3cd8620aebdcb87a4ef66a7da96f76cf5cfd12d1",
+      "archive_entry": "Meta_Company Lockup/1 Positive Primary/RGB/Meta_lockup_positive primary_RGB.svg",
+      "transformation": "Original official file preserved byte for byte",
+      "format": "SVG",
+      "viewBox": "0 0 6962.3646 3000"
+    },
+    {
+      "file": "icons/Meta-QX.png",
+      "retrieved_date": "2026-10-19",
+      "bytes": 5612,
+      "sha256": "e5dfdf0bf3a224504ff2c062e1e51469eebaa29bbd99aed1015d8529ac8e94c4",
+      "source_kind": "Meta official brand resource pack",
+      "source_url": "https://www.meta.com/brand/resources/meta/company-brand/",
+      "source_page": "https://www.meta.com/brand/resources/meta/company-brand/",
+      "archive_sha256": "55294fb54c3eaf034944e81c3cd8620aebdcb87a4ef66a7da96f76cf5cfd12d1",
+      "archive_entry": "Meta_Company Lockup/1 Positive Primary/RGB/Meta_lockup_positive primary_RGB.svg",
+      "source_file": "icons/Meta-Symbol.svg",
+      "derived_from_sha256": "6a2a6001a06958db18c3415d9d105d7427f0bb3b2f7009efaeb35457c856f1be",
+      "transformation": "Rendered independently at target size from official source SVG; original artwork and colors preserved; transparent square canvas with 6 percent horizontal margin; 8-bit RGBA non-interlaced PNG",
+      "format": "PNG",
+      "dimensions": [
+        144,
+        144
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "icons/Meta-Symbol.svg",
+      "retrieved_date": "2026-10-19",
+      "bytes": 372103,
+      "sha256": "6a2a6001a06958db18c3415d9d105d7427f0bb3b2f7009efaeb35457c856f1be",
+      "source_kind": "Meta official brand resource pack",
+      "source_url": "https://www.meta.com/brand/resources/meta/company-brand/",
+      "source_page": "https://www.meta.com/brand/resources/meta/company-brand/",
+      "archive_sha256": "55294fb54c3eaf034944e81c3cd8620aebdcb87a4ef66a7da96f76cf5cfd12d1",
+      "archive_entry": "Meta_Company Lockup/1 Positive Primary/RGB/Meta_lockup_positive primary_RGB.svg",
+      "source_file": "icons/Meta-Original.svg",
+      "derived_from_sha256": "3d90eb90e4440065a2706615986ff65b0e93f02dbc9ab9a37651fefb80d2411a",
+      "transformation": "Extracted existing Symbol group and its original definitions; original paths and colors unchanged; transparent square canvas with 6 percent horizontal margin",
+      "format": "SVG",
+      "viewBox": "896.796941 644.307218 1711.385563 1711.385563"
     },
     {
       "file": "icons/Microsoft-HD.png",
@@ -657,6 +785,54 @@
       "mode": "RGBA",
       "source_file": "icons/Muse-HD.png",
       "derived_from_sha256": "a024507ba7897949f3831ca95322830b51b86c170bd3a0a05718ea2d9ca3b723"
+    },
+    {
+      "file": "icons/Muse-Transparent-HD.png",
+      "retrieved_date": "2026-10-19",
+      "bytes": 45277,
+      "sha256": "e8a4a77dab10e6ea2f26014c04621ffd77067b088eb17ac072521121960517c0",
+      "source_kind": "Muse official website transparent SVG",
+      "source_page": "https://muse.ai",
+      "source_url": "https://muse.ai/images/landing/brand/muse-logo.svg",
+      "source_file": "icons/Muse-Transparent-Original.svg",
+      "derived_from_sha256": "73bdf6aed3c3a03b2181c69532672554fca8a1d303644c301abb1caf5300d703",
+      "transformation": "Rendered independently at target size from official source SVG; original artwork and colors preserved; transparent square canvas with 6 percent horizontal margin; 8-bit RGBA non-interlaced PNG",
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "icons/Muse-Transparent-Original.svg",
+      "retrieved_date": "2026-10-19",
+      "bytes": 2628,
+      "sha256": "73bdf6aed3c3a03b2181c69532672554fca8a1d303644c301abb1caf5300d703",
+      "source_kind": "Muse official website transparent SVG",
+      "source_page": "https://muse.ai",
+      "source_url": "https://muse.ai/images/landing/brand/muse-logo.svg",
+      "transformation": "Original official file preserved byte for byte",
+      "format": "SVG",
+      "viewBox": "0 0 100 100"
+    },
+    {
+      "file": "icons/Muse-Transparent-QX.png",
+      "retrieved_date": "2026-10-19",
+      "bytes": 4905,
+      "sha256": "31fc6eed6f9a2017b21252fc8b71754304c641e68b451c461da27380e9d6b038",
+      "source_kind": "Muse official website transparent SVG",
+      "source_page": "https://muse.ai",
+      "source_url": "https://muse.ai/images/landing/brand/muse-logo.svg",
+      "source_file": "icons/Muse-Transparent-Original.svg",
+      "derived_from_sha256": "73bdf6aed3c3a03b2181c69532672554fca8a1d303644c301abb1caf5300d703",
+      "transformation": "Rendered independently at target size from official source SVG; original artwork and colors preserved; transparent square canvas with 6 percent horizontal margin; 8-bit RGBA non-interlaced PNG",
+      "format": "PNG",
+      "dimensions": [
+        144,
+        144
+      ],
+      "mode": "RGBA"
     },
     {
       "file": "icons/Netflix.png",
