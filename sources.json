@@ -623,6 +623,42 @@
       "sha256": "929f48f88c8ca7f3f5d294be47ec4caf51acc28ac25340c19a903125d7ecd84a"
     },
     {
+      "file": "icons/Muse-HD.png",
+      "source_kind": "Muse from Meta official App Store icon",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/eb/1b/43eb1bff-c145-7968-55a6-1ff63ec49644/HatchAppIconPublic-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/1024x1024bb.png",
+      "source_page": "https://apps.apple.com/us/app/muse-from-meta/id6760173601",
+      "app_id": 6760173601,
+      "publisher": "Meta Platforms, Inc.",
+      "retrieved_date": "2026-10-19",
+      "transformation": "Original official 1024px PNG preserved byte for byte",
+      "bytes": 1083097,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "a024507ba7897949f3831ca95322830b51b86c170bd3a0a05718ea2d9ca3b723",
+      "mode": "RGB"
+    },
+    {
+      "file": "icons/Muse-QX.png",
+      "source_kind": "Muse from Meta official App Store icon",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/eb/1b/43eb1bff-c145-7968-55a6-1ff63ec49644/HatchAppIconPublic-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/1024x1024bb.png",
+      "source_page": "https://apps.apple.com/us/app/muse-from-meta/id6760173601",
+      "app_id": 6760173601,
+      "publisher": "Meta Platforms, Inc.",
+      "retrieved_date": "2026-10-19",
+      "transformation": "144x144; Lanczos resize from original 1024px artwork; 8-bit RGBA; non-interlaced PNG; metadata removed",
+      "bytes": 14766,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "4830efc317e266e6129d47e17710f0f96e309df75c537017f0773f197e8f03b2",
+      "mode": "RGBA",
+      "source_file": "icons/Muse-HD.png",
+      "derived_from_sha256": "a024507ba7897949f3831ca95322830b51b86c170bd3a0a05718ea2d9ca3b723"
+    },
+    {
       "file": "icons/Netflix.png",
       "source_kind": "Koolson/Qure",
       "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/Netflix.png",
