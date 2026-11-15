@@ -3,6 +3,25 @@
   "qure_commit": "b16b260625f873266f6a6a9b88710132774997b8",
   "icons": [
     {
+      "file": "icons/Apple-Silver-HD.png",
+      "source_kind": "Apple website navigation silhouette, custom silver treatment",
+      "source_page": "https://www.apple.com/",
+      "bytes": 133238,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source_file": "icons/Apple-Silver.svg",
+      "sha256": "c7ee6212b5d0be3f57e14fd872b66b6c87b870653d71ef6536829bb848e9389a"
+    },
+    {
+      "file": "icons/Apple-Silver.svg",
+      "source_kind": "Apple website navigation silhouette, custom silver treatment",
+      "source_page": "https://www.apple.com/",
+      "bytes": 1416,
+      "sha256": "389c2e32e01a7c9809392fe61edf710f333d703be1be7846eaf79cd9148898e9"
+    },
+    {
       "file": "icons/AI.png",
       "source_kind": "Koolson/Qure",
       "source_url": "https://cdn.jsdelivr.net/gh/Koolson/Qure@b16b260625f873266f6a6a9b88710132774997b8/IconSet/Color/AI.png",

@@ -23,6 +23,8 @@
 
 ## 规格转换与自定义排版
 
+Apple-Silver.svg 和 Apple-Silver-HD.png 采用 [Apple 官网](https://www.apple.com/) 顶部导航中的标志轮廓，使用自定义银白渐变和透明背景。Apple 标志归 Apple Inc. 所有。
+
 | 文件或系列 | 处理 |
 | --- | --- |
 | Muse-QX.png | 从 Muse-HD.png 官方高清原图缩小至 144 × 144、8-bit RGBA、非交错 PNG；保留原图案、配色和背景。 |

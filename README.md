@@ -6,6 +6,7 @@
 
 | 预览 | 用途 | 文件 | 尺寸（px） | 说明 |
 | --- | --- | --- | --- | --- |
+| <img src="icons/Apple-Silver-HD.png" width="36" alt="Apple · 银白标志"> | Apple · 银白标志 | [Apple-Silver-HD.png](icons/Apple-Silver-HD.png) | 1024 × 1024 | 苹果轮廓，银白渐变，透明背景 |
 | <img src="icons/Global-Skeuomorphic-HD.png" width="36" alt="所有节点 · 拟物地球"> | 所有节点 · 拟物地球 | [Global-Skeuomorphic-HD.png](icons/Global-Skeuomorphic-HD.png) | 1024 × 1024 | 立体地球，透明背景，高清版 |
 | <img src="icons/Final-Clownfish-HD.png" width="36" alt="漏网之鱼 · 可爱小丑鱼"> | 漏网之鱼 · 可爱小丑鱼 | [Final-Clownfish-HD.png](icons/Final-Clownfish-HD.png) | 1254 × 1254 | 已确认的透明底版本，1254px 原图完整保留 |
 | <img src="icons/Claude-Spark-Clay-HD.png" width="36" alt="Claude · 透明星芒"> | Claude · 透明星芒 | [Claude-Spark-Clay-HD.png](icons/Claude-Spark-Clay-HD.png) | 2048 × 2048 | 官方 SVG 直接渲染，透明背景，原配色 |
@@ -105,6 +106,7 @@ QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导�
 | --- | --- | --- |
 | 微软 · 官方四彩标志 | [Microsoft-Symbol.svg](icons/Microsoft-Symbol.svg) | Microsoft Learn 官方 SVG，原样保存 |
 | Claude · 官方透明星芒 | [Claude-Spark-Clay-Original.svg](icons/Claude-Spark-Clay-Original.svg) | 官方媒体包 SVG 原样保存，用于独立导出高清版与 QX 版 |
+| Apple · 银白标志 | [Apple-Silver.svg](icons/Apple-Silver.svg) | 采用 Apple 官网导航标志轮廓，定制银白配色 |
 | Meta · 官方完整标志原件 | [Meta-Original.svg](icons/Meta-Original.svg) | 官方品牌包 SVG，原样保存 |
 | Meta · 独立环形标志 | [Meta-Symbol.svg](icons/Meta-Symbol.svg) | 从官方原件提取已有 Symbol，图形与配色保留 |
 | Muse · 官方透明标志 | [Muse-Transparent-Original.svg](icons/Muse-Transparent-Original.svg) | Muse 官网 SVG，原样保存 |
