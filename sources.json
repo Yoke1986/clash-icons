@@ -3,6 +3,18 @@
   "qure_commit": "b16b260625f873266f6a6a9b88710132774997b8",
   "icons": [
     {
+      "file": "icons/Apple-Silver-QX.png",
+      "source_kind": "Apple silver icon, downsampled for Quantumult X",
+      "source_page": "https://www.apple.com/",
+      "source_file": "icons/Apple-Silver-HD.png",
+      "bytes": 10628,
+      "dimensions": [
+        144,
+        144
+      ],
+      "sha256": "f511bb0a213929a3d1377fc6afb82918c54e7e78d09fd2d53294917e25e66641"
+    },
+    {
       "file": "icons/Apple-Silver-HD.png",
       "source_kind": "Apple website navigation silhouette, custom silver treatment",
       "source_page": "https://www.apple.com/",

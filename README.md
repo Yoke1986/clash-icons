@@ -26,6 +26,7 @@
 
 | 预览 | 用途 | 文件 | 尺寸（px） |
 | --- | --- | --- | --- |
+| <img src="icons/Apple-Silver-QX.png" width="36" alt="Apple · 银白标志"> | Apple · 银白标志 | [Apple-Silver-QX.png](icons/Apple-Silver-QX.png) | 144 × 144 |
 | <img src="icons/Global-Skeuomorphic-QX.png" width="36" alt="所有节点 · 拟物地球"> | 所有节点 · 拟物地球 | [Global-Skeuomorphic-QX.png](icons/Global-Skeuomorphic-QX.png) | 144 × 144 |
 | <img src="icons/Final-Clownfish-QX.png" width="36" alt="漏网之鱼 · 可爱小丑鱼"> | 漏网之鱼 · 可爱小丑鱼 | [Final-Clownfish-QX.png](icons/Final-Clownfish-QX.png) | 144 × 144 |
 | <img src="icons/Claude-Spark-Clay-QX.png" width="36" alt="Claude · 透明星芒"> | Claude · 透明星芒 | [Claude-Spark-Clay-QX.png](icons/Claude-Spark-Clay-QX.png) | 144 × 144 |
