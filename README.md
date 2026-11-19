@@ -12,6 +12,7 @@
 | <img src="icons/Claude-Spark-Clay-HD.png" width="36" alt="Claude · 透明星芒"> | Claude · 透明星芒 | [Claude-Spark-Clay-HD.png](icons/Claude-Spark-Clay-HD.png) | 2048 × 2048 | 官方 SVG 直接渲染，透明背景，原配色 |
 | <img src="icons/GPT-HD.png" width="36" alt="GPT · 白色圆角"> | GPT · 白色圆角 | [GPT-HD.png](icons/GPT-HD.png) | 1024 × 1024 | 官方黑色标志，配白色圆角底，外缘透明 |
 | <img src="icons/GPT-Transparent-HD.png" width="36" alt="GPT · 透明背景"> | GPT · 透明背景 | [GPT-Transparent-HD.png](icons/GPT-Transparent-HD.png) | 1024 × 1024 | 官方黑色标志，透明背景 |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/GPT-Transparent-White-HD.png"><img src="icons/GPT-Transparent-HD.png" width="36" alt="GPT · 透明纯白版"></picture> | GPT · 透明纯白版 | [GPT-Transparent-White-HD.png](icons/GPT-Transparent-White-HD.png) | 1024 × 1024 | 深色界面使用的纯白标志，透明背景 |
 | <img src="icons/Gemini-HD.png" width="36" alt="Gemini · 四色星标"> | Gemini · 四色星标 | [Gemini-HD.png](icons/Gemini-HD.png) | 1024 × 1024 | 官方矢量直接渲染，透明背景 |
 | <img src="icons/Muse-HD.png" width="36" alt="Muse from Meta · 官方应用图标"> | Muse from Meta · 官方应用图标 | [Muse-HD.png](icons/Muse-HD.png) | 1024 × 1024 | 官方 App Store 高清 PNG，原样保存 |
 | <img src="icons/Muse-Transparent-HD.png" width="36" alt="Muse · 官方透明标志"> | Muse · 官方透明标志 | [Muse-Transparent-HD.png](icons/Muse-Transparent-HD.png) | 1024 × 1024 | 官网 SVG 导出，透明背景 |
@@ -35,6 +36,7 @@
 | <img src="icons/Claude-Spark-Clay-QX.png" width="36" alt="Claude · 透明星芒"> | Claude · 透明星芒 | [Claude-Spark-Clay-QX.png](icons/Claude-Spark-Clay-QX.png) | 144 × 144 |
 | <img src="icons/GPT-QX.png" width="36" alt="GPT · 白色圆角"> | GPT · 白色圆角 | [GPT-QX.png](icons/GPT-QX.png) | 144 × 144 |
 | <img src="icons/GPT-Transparent-QX.png" width="36" alt="GPT · 透明背景"> | GPT · 透明背景 | [GPT-Transparent-QX.png](icons/GPT-Transparent-QX.png) | 144 × 144 |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="icons/GPT-Transparent-White-QX.png"><img src="icons/GPT-Transparent-QX.png" width="36" alt="GPT · 透明纯白版"></picture> | GPT · 透明纯白版 | [GPT-Transparent-White-QX.png](icons/GPT-Transparent-White-QX.png) | 144 × 144 |
 | <img src="icons/Gemini-QX.png" width="36" alt="Gemini · 四色星标"> | Gemini · 四色星标 | [Gemini-QX.png](icons/Gemini-QX.png) | 144 × 144 |
 | <img src="icons/Muse-QX.png" width="36" alt="Muse from Meta · 官方应用图标"> | Muse from Meta · 官方应用图标 | [Muse-QX.png](icons/Muse-QX.png) | 144 × 144 |
 | <img src="icons/Muse-Transparent-QX.png" width="36" alt="Muse · 官方透明标志"> | Muse · 官方透明标志 | [Muse-Transparent-QX.png](icons/Muse-Transparent-QX.png) | 144 × 144 |
