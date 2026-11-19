@@ -10,6 +10,9 @@
 | <img src="icons/Global-Skeuomorphic-HD.png" width="36" alt="所有节点 · 拟物地球"> | 所有节点 · 拟物地球 | [Global-Skeuomorphic-HD.png](icons/Global-Skeuomorphic-HD.png) | 1024 × 1024 | 立体地球，透明背景，高清版 |
 | <img src="icons/Final-Clownfish-HD.png" width="36" alt="漏网之鱼 · 可爱小丑鱼"> | 漏网之鱼 · 可爱小丑鱼 | [Final-Clownfish-HD.png](icons/Final-Clownfish-HD.png) | 1254 × 1254 | 已确认的透明底版本，1254px 原图完整保留 |
 | <img src="icons/Claude-Spark-Clay-HD.png" width="36" alt="Claude · 透明星芒"> | Claude · 透明星芒 | [Claude-Spark-Clay-HD.png](icons/Claude-Spark-Clay-HD.png) | 2048 × 2048 | 官方 SVG 直接渲染，透明背景，原配色 |
+| <img src="icons/GPT-HD.png" width="36" alt="GPT · 白色圆角"> | GPT · 白色圆角 | [GPT-HD.png](icons/GPT-HD.png) | 1024 × 1024 | 官方黑色标志，配白色圆角底，外缘透明 |
+| <img src="icons/GPT-Transparent-HD.png" width="36" alt="GPT · 透明背景"> | GPT · 透明背景 | [GPT-Transparent-HD.png](icons/GPT-Transparent-HD.png) | 1024 × 1024 | 官方黑色标志，透明背景 |
+| <img src="icons/Gemini-HD.png" width="36" alt="Gemini · 四色星标"> | Gemini · 四色星标 | [Gemini-HD.png](icons/Gemini-HD.png) | 1024 × 1024 | 官方矢量直接渲染，透明背景 |
 | <img src="icons/Muse-HD.png" width="36" alt="Muse from Meta · 官方应用图标"> | Muse from Meta · 官方应用图标 | [Muse-HD.png](icons/Muse-HD.png) | 1024 × 1024 | 官方 App Store 高清 PNG，原样保存 |
 | <img src="icons/Muse-Transparent-HD.png" width="36" alt="Muse · 官方透明标志"> | Muse · 官方透明标志 | [Muse-Transparent-HD.png](icons/Muse-Transparent-HD.png) | 1024 × 1024 | 官网 SVG 导出，透明背景 |
 | <img src="icons/Meta-HD.png" width="36" alt="Meta · 蓝色环形标志"> | Meta · 蓝色环形标志 | [Meta-HD.png](icons/Meta-HD.png) | 1024 × 1024 | 官方素材中的 Symbol，透明背景 |
@@ -30,6 +33,9 @@
 | <img src="icons/Global-Skeuomorphic-QX.png" width="36" alt="所有节点 · 拟物地球"> | 所有节点 · 拟物地球 | [Global-Skeuomorphic-QX.png](icons/Global-Skeuomorphic-QX.png) | 144 × 144 |
 | <img src="icons/Final-Clownfish-QX.png" width="36" alt="漏网之鱼 · 可爱小丑鱼"> | 漏网之鱼 · 可爱小丑鱼 | [Final-Clownfish-QX.png](icons/Final-Clownfish-QX.png) | 144 × 144 |
 | <img src="icons/Claude-Spark-Clay-QX.png" width="36" alt="Claude · 透明星芒"> | Claude · 透明星芒 | [Claude-Spark-Clay-QX.png](icons/Claude-Spark-Clay-QX.png) | 144 × 144 |
+| <img src="icons/GPT-QX.png" width="36" alt="GPT · 白色圆角"> | GPT · 白色圆角 | [GPT-QX.png](icons/GPT-QX.png) | 144 × 144 |
+| <img src="icons/GPT-Transparent-QX.png" width="36" alt="GPT · 透明背景"> | GPT · 透明背景 | [GPT-Transparent-QX.png](icons/GPT-Transparent-QX.png) | 144 × 144 |
+| <img src="icons/Gemini-QX.png" width="36" alt="Gemini · 四色星标"> | Gemini · 四色星标 | [Gemini-QX.png](icons/Gemini-QX.png) | 144 × 144 |
 | <img src="icons/Muse-QX.png" width="36" alt="Muse from Meta · 官方应用图标"> | Muse from Meta · 官方应用图标 | [Muse-QX.png](icons/Muse-QX.png) | 144 × 144 |
 | <img src="icons/Muse-Transparent-QX.png" width="36" alt="Muse · 官方透明标志"> | Muse · 官方透明标志 | [Muse-Transparent-QX.png](icons/Muse-Transparent-QX.png) | 144 × 144 |
 | <img src="icons/Meta-QX.png" width="36" alt="Meta · 蓝色环形标志"> | Meta · 蓝色环形标志 | [Meta-QX.png](icons/Meta-QX.png) | 144 × 144 |
@@ -107,6 +113,8 @@ QX 专用版统一为 144 × 144、8-bit RGBA PNG；手机端显示以实际导�
 | --- | --- | --- |
 | 微软 · 官方四彩标志 | [Microsoft-Symbol.svg](icons/Microsoft-Symbol.svg) | Microsoft Learn 官方 SVG，原样保存 |
 | Claude · 官方透明星芒 | [Claude-Spark-Clay-Original.svg](icons/Claude-Spark-Clay-Original.svg) | 官方媒体包 SVG 原样保存，用于独立导出高清版与 QX 版 |
+| GPT · 官方 ChatGPT 标志 | [GPT-Original.svg](icons/GPT-Original.svg) | [OpenAI GitHub](https://github.com/openai/sign-in-with-chatgpt-devkit/blob/0a36fefeb913055c8c7a1a29b63d82b96b2e841a/assets/brand/chatgpt-dialog-72.svg) 原始矢量 |
+| Gemini · 官方四色星标 | [Gemini-Original.svg](icons/Gemini-Original.svg) | [Gemini 网页标志](https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg) 原始矢量 |
 | Apple · 银白标志 | [Apple-Silver.svg](icons/Apple-Silver.svg) | 采用 Apple 官网导航标志轮廓，定制银白配色 |
 | Meta · 官方完整标志原件 | [Meta-Original.svg](icons/Meta-Original.svg) | 官方品牌包 SVG，原样保存 |
 | Meta · 独立环形标志 | [Meta-Symbol.svg](icons/Meta-Symbol.svg) | 从官方原件提取已有 Symbol，图形与配色保留 |
